@@ -1,0 +1,14 @@
+---
+title: "My First Post"
+author: "Zander Gordan"
+date: "2023-11-20"
+categories: [news]
+---
+
+Tonight I set up my first Quarto blog, I had previously used blogdown but was never consistent about it, and have since deleted the site. Maybe this time I will be more consistent in posting.
+
+Expected topics to include economics, public policy, sports, music, and life. Possibly, though not definitely, in that order.
+
+Here's a photo of my dog Cannoli:
+
+![](IMG_0352.jpg)
