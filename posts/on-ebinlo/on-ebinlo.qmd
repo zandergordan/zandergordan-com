@@ -1,0 +1,26 @@
+---
+title: "On EBINLO"
+author: "Zander Gordan"
+date: "2023-11-30"
+categories: [music]
+---
+
+I have been substantially more musically active this year than I have been any time since about 2014. Grad school is mostly to blame for the long lull, but with my PhD officially conferred in January of this year, I have had more time to devote to hobbies. I've adopted a new moniker, EBINLO, for this new round of activity.
+
+There have been a couple of original productions made with a hybrid Ableton and Eurorack setup:
+
+```{=html}
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1911763465/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://ebinlo.bandcamp.com/track/ok-im-up-now-what">OK I&#39;m Up, Now What by EBINLO</a></iframe>
+```
+```{=html}
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1036159911/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://ebinlo.bandcamp.com/track/attention-customers-please-excuse-the-smell">Attention Customers Please Excuse The Smell by EBINLO</a></iframe>
+```
+And a couple of DJ mixes focusing on indie pop tunes I found on Bandcamp, made with Ableton Live in the arrangement view, making heavy use of track automation to make the transitions:
+
+```{=html}
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1444759837&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ebinlo" title="EBINLO" target="_blank" style="color: #cccccc; text-decoration: none;">EBINLO</a> · <a href="https://soundcloud.com/ebinlo/ebinlo-presents" title="EBINLO Presents" target="_blank" style="color: #cccccc; text-decoration: none;">EBINLO Presents</a></div>
+```
+```{=html}
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1449269605&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ebinlo" title="EBINLO" target="_blank" style="color: #cccccc; text-decoration: none;">EBINLO</a> · <a href="https://soundcloud.com/ebinlo/ebinlo-presents-vol-2" title="EBINLO Presents Vol 2" target="_blank" style="color: #cccccc; text-decoration: none;">EBINLO Presents Vol 2</a></div>
+```
+But mostly I have just been jamming, coming up with stuff and then tearing it down and deleting it within the same day. I hope to put more mixes together, integrating the Eurorack setup into the creation of the mixes as well, and spanning a wider range of genres than just pop. Maybe I would make some more original tracks as well, but that is less interesting to me at the moment.
