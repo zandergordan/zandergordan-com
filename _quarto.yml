@@ -9,7 +9,6 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - blog.qmd
       - icon: github
         href: https://github.com/zandergordan/zandergordan-com
 

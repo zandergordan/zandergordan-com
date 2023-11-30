@@ -1,11 +1,14 @@
 ---
 title: "Welcome!"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
 ---
 
-This is my Quarto site.
-
-It runs code:
-
-```{r}
-1 + 1
-```
+Here is my humble blog.
