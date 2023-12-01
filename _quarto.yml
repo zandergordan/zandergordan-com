@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Zander Gordan"
+  site-url: https://www.zandergordan.com
+  description: "Zander Gordan's personal blog"
   navbar:
     left:
       - href: index.qmd
@@ -11,6 +13,8 @@ website:
       - about.qmd
       - icon: github
         href: https://github.com/zandergordan/zandergordan-com
+      - icon: rss
+        href: index.xml
 
 format:
   html:

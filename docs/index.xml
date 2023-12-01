@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Zander Gordan</title>
+<link>https://www.zandergordan.com/index.html</link>
+<atom:link href="https://www.zandergordan.com/index.xml" rel="self" type="application/rss+xml"/>
+<description>Zander Gordan&#39;s personal blog</description>
+<generator>quarto-1.3.353</generator>
+<lastBuildDate>Thu, 30 Nov 2023 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>On EBINLO</title>
+  <dc:creator>Zander Gordan</dc:creator>
+  <link>https://www.zandergordan.com/posts/on-ebinlo/on-ebinlo.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I have been substantially more musically active this year than I have been any time since about 2014. Grad school is mostly to blame for the long lull, but with my PhD officially conferred in January of this year, I have had more time to devote to hobbies. I’ve adopted a new moniker, EBINLO, for this new round of activity.</p>
+<p>There have been a couple of original productions made with a hybrid Ableton and Eurorack setup:</p>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1911763465/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless=""><a href="https://ebinlo.bandcamp.com/track/ok-im-up-now-what">OK I&#39;m Up, Now What by EBINLO</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1036159911/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless=""><a href="https://ebinlo.bandcamp.com/track/attention-customers-please-excuse-the-smell">Attention Customers Please Excuse The Smell by EBINLO</a></iframe>
+<p>And a couple of DJ mixes focusing on indie pop tunes I found on Bandcamp, made with Ableton Live in the arrangement view, making heavy use of track automation to make the transitions:</p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1444759837&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ebinlo" title="EBINLO" target="_blank" style="color: #cccccc; text-decoration: none;">EBINLO</a> · <a href="https://soundcloud.com/ebinlo/ebinlo-presents" title="EBINLO Presents" target="_blank" style="color: #cccccc; text-decoration: none;">EBINLO Presents</a></div>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1449269605&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ebinlo" title="EBINLO" target="_blank" style="color: #cccccc; text-decoration: none;">EBINLO</a> · <a href="https://soundcloud.com/ebinlo/ebinlo-presents-vol-2" title="EBINLO Presents Vol 2" target="_blank" style="color: #cccccc; text-decoration: none;">EBINLO Presents Vol 2</a></div>
+<p>But mostly I have just been jamming, coming up with stuff and then tearing it down and deleting it within the same day. I hope to put more mixes together, integrating the Eurorack setup into the creation of the mixes as well, and spanning a wider range of genres than just pop. Maybe I would make some more original tracks as well, but that is less interesting to me at the moment.</p>
+
+
+
+ ]]></description>
+  <category>music</category>
+  <guid>https://www.zandergordan.com/posts/on-ebinlo/on-ebinlo.html</guid>
+  <pubDate>Thu, 30 Nov 2023 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>On Rivalry Week</title>
+  <dc:creator>Zander Gordan</dc:creator>
+  <link>https://www.zandergordan.com/posts/rivalry-week/rivalry-week.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>With kickoff rapidly approaching for The Game, and my precious Noles set to play their first full game without QB Jordan Travis this season, I wanted to crystallize what I have assimilated regarding success in football, <em>and perhaps, in life</em>.</p>
+<p>You’ve got to be physical.</p>
+<p>You’ve got to bring pressure.</p>
+<p>You’ve got to believe. I learned that from my court-ordered viewership of Ted Lasso.</p>
+<p>This is a tricky one: you’ve got give 110%. Some of the two sport athletes may be concerned with “not trying to do too much,” but this is not baseball.</p>
+<p>Most importantly, you’ve got to not lose. The mathematically inclined among you may believe that exactly as many games are won as are lost. But spiritually, more games are lost than won. The key, therefore, is not to lose.</p>
+<p><img src="https://www.zandergordan.com/posts/rivalry-week/go noles.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>sports</category>
+  <guid>https://www.zandergordan.com/posts/rivalry-week/rivalry-week.html</guid>
+  <pubDate>Sat, 25 Nov 2023 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>My First Post</title>
+  <dc:creator>Zander Gordan</dc:creator>
+  <link>https://www.zandergordan.com/posts/first-post/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Tonight I set up my first Quarto blog, I had previously used blogdown but was never consistent about it, and have since deleted the site. Maybe this time I will be more consistent in posting.</p>
+<p>Expected topics to include economics, public policy, sports, music, and life. Possibly, though not definitely, in that order.</p>
+<p>Here’s a photo of my dog Cannoli:</p>
+<p><img src="https://www.zandergordan.com/posts/first-post/IMG_0352.jpg" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://www.zandergordan.com/posts/first-post/index.html</guid>
+  <pubDate>Mon, 20 Nov 2023 05:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
