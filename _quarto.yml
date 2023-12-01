@@ -6,6 +6,7 @@ website:
   title: "Zander Gordan"
   site-url: https://www.zandergordan.com
   description: "Zander Gordan's personal blog"
+  favicon: favicon.ico
   navbar:
     left:
       - href: index.qmd
