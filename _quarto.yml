@@ -7,6 +7,8 @@ website:
   site-url: https://www.zandergordan.com
   description: "Zander Gordan's personal blog"
   favicon: favicon.ico
+  twitter-card: true
+  open-graph: true
   navbar:
     left:
       - href: index.qmd
