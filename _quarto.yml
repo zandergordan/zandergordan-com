@@ -9,6 +9,10 @@ website:
   favicon: favicon.ico
   twitter-card: true
   open-graph: true
+  google-analytics: 
+    tracking-id: "G-PNM0RM754C"
+    anonymize-ip: false
+    
   navbar:
     left:
       - href: index.qmd
