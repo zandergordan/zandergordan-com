@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.zandergordan.com/posts/on-consistency/on-consistency.html</loc>
+    <lastmod>2023-12-04T01:15:13.962Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.zandergordan.com/posts/on-ebinlo/on-ebinlo.html</loc>
-    <lastmod>2023-12-01T02:06:24.199Z</lastmod>
+    <lastmod>2023-12-04T01:15:14.470Z</lastmod>
   </url>
   <url>
     <loc>https://www.zandergordan.com/posts/rivalry-week/rivalry-week.html</loc>
-    <lastmod>2023-12-01T02:06:24.692Z</lastmod>
+    <lastmod>2023-12-04T01:15:14.927Z</lastmod>
   </url>
   <url>
     <loc>https://www.zandergordan.com/posts/first-post/index.html</loc>
-    <lastmod>2023-12-01T02:06:25.137Z</lastmod>
+    <lastmod>2023-12-04T01:15:15.391Z</lastmod>
   </url>
   <url>
     <loc>https://www.zandergordan.com/index.html</loc>
-    <lastmod>2023-12-01T02:06:25.870Z</lastmod>
+    <lastmod>2023-12-04T01:15:16.187Z</lastmod>
   </url>
   <url>
     <loc>https://www.zandergordan.com/about.html</loc>
-    <lastmod>2023-12-01T02:06:26.307Z</lastmod>
+    <lastmod>2023-12-04T01:15:16.610Z</lastmod>
   </url>
 </urlset>
