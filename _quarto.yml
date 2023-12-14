@@ -22,6 +22,8 @@ website:
         href: https://github.com/zandergordan/zandergordan-com
       - icon: rss
         href: index.xml
+      - href: https://feedrabbit.com/subscriptions/new?url=zandergordan.com
+        text: Subscribe with email
 
 format:
   html:
