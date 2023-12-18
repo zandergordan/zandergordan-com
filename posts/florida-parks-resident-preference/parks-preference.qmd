@@ -1,0 +1,16 @@
+---
+title: "New Florida Parks Resident Preference Policy"
+author: "Zander Gordan"
+date: "2023-12-17"
+categories: [outdoors, economics, policy, florida]
+---
+
+I recently received an email from the Florida Department of Environmental Protection informing me that "Effective Jan. 1, 2024, at noon Eastern time, only Florida residents may make reservations for cabins and RV, tent, boat and equestrian campsites 11 months in advance. Non-Florida residents will be able to make reservations 10 months in advance."
+
+This is the result of [Florida 2023 HB 109](https://www.myfloridahouse.gov/Sections/Bills/billsdetail.aspx?BillId=76845&SessionId=99#:~:text=CS%2FHB%20109%20%2D%20State%20Park%20Campsite%20Reservations&text=State%20Park%20Campsite%20Reservations%3A%20Requires,specified%20information%20for%20advance%20reservations.), signed into law back in May. I am not clear on whether I think this is a good or bad development. Selfishly speaking, it will make it slightly easier for me to get a booking at certain campsites, though I have not actually made such a booking since January 2022. On the other hand, I worry it may hurt our tourism industry. Thinking ahead, I also wonder whether similar laws being passed in other states could lead us to an unfortunate equilibrium where the best campsites in America are all for the exclusive use of in-state residents.
+
+Regarding tourism impacts, I think it is worth noting that there has been some serious neglect in how this bill was handled in the state legislature: potential tourism impacts were declared to be essentially 0. In the legislature, bills undergo staff review, including an economic impact section, if you look at the links under the "staff analysis" section of the previous link, you can see that in 8 separate versions of the analysis of this bill, all declared that the impact of this bill on state and local government revenues would be none.
+
+Let me say it is not obvious a priori whether this law would lead to a reduction or increase in sales tax revenues. That depends on a number of parameters, such as whether in-state residents or tourists tend to spend more on a given campsite trip, and whether tourists who are locked out of their preferred campsite due to the new rules subsequently cancel their trip entirely, or if they simply substitute to a different kind of trip, and if so how much money they spend on that substitute trip compared to their first choice trip. With those caveats in mind, and armed with 0 data on the question, let me say that my intuition is strongly that tourists tend to spend more than in-state residents, and that the new law will lead to a substantial reduction in tourist trips and consequently state sales tax revenues.
+
+The fact that there is no amount of thought dedicated to this question in the official analysis of the law, and that the law still passed unanimously in both chambers, signals to me that in some cases the neurons simply are not firing in Tallahassee.
