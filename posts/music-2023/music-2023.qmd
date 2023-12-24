@@ -1,0 +1,81 @@
+---
+title: "Music Wrap-up 2023"
+author: "Zander Gordan"
+date: "2023-12-24"
+categories: [music, AOTY]
+---
+
+I listened to a lot of interesting music in 2023, although most of it actually was not new music, but rather older music from different genres and scenes that I had not previously explored very much, such as IDM from artists like [Squarepusher](https://squarepusher.bandcamp.com/album/feed-me-weird-things-remastered) and [Plaid](https://plaid.bandcamp.com/album/feorm-falorx), old techno released off the [Kompakt](https://kompakt.fm) label, and instrumental funk from artists like [The Budos Band](https://thebudosband.bandcamp.com/album/the-budos-band). In any case, I'll mostly focus this post on music that actually came out this year, of which I also listened to plenty.
+
+# Albums
+
+With no further ado, my AOTY:
+
+```{=html}
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1793449465/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://islandman-feat-okaytemiz-and-muhlisberberolu.bandcamp.com/album/direct-to-disc-sessions">Direct-to-Disc Sessions by Islandman feat Okay Temiz and Muhlis Berberoğlu</a></iframe>
+```
+I found this while browsing new releases from the Juno webshop, where the description caught my eye: "Future-folktronica at its very best." I do not know any of these artists, and have not yet bothered to listen to any other releases from any of them, but this one-time collaboration is amazing. Danceable throughout, and unlike anything I've ever heard, I just can't recommend it enough.
+
+Other albums I can recommend include:
+
+A fun bass album from Bristol-based duo Glume and Phossa.
+
+```{=html}
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1359512353/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://whitepeach.bandcamp.com/album/wprlp001-between-surface">WPRLP001 - Between Surface by Glume &amp; Phossa</a></iframe>
+```
+A much-appreciated return to form from Fall Out Boy.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5rHd8n9uWIpq9w0PP5ZcI3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+A big, danceable, electronic RnB/Pop album from Jessy Lanza off the [Hyperdub](https://hyperdub.net/en-us) label.
+
+```{=html}
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3119055298/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://jessylanza.bandcamp.com/album/love-hallucination">Love Hallucination by Jessy Lanza</a></iframe>
+```
+A modern trip-hop-inflected pop masterpiece from George Clanton:
+
+```{=html}
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1059279715/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://georgeclanton.bandcamp.com/album/ooh-rap-i-ya">Ooh Rap I Ya by George Clanton</a></iframe>
+```
+A wonderful genre-bending indie pop entry from German artist J Vague
+
+```{=html}
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=376511840/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://jvague.bandcamp.com/album/silver">SILVER by J. Vague</a></iframe>
+```
+# Singles
+
+There were also a couple singles that stood out to me this year, even if I didn't like the rest of the album enough to recommend the whole thing.
+
+Going Home to a Party - JW Francis. Indie pop.
+
+```{=html}
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1053041854/size=small/bgcol=ffffff/linkcol=0687f5/track=994267083/transparent=true/" seamless><a href="https://jwfrancis.bandcamp.com/album/dream-house">Dream House by JW Francis</a></iframe>
+```
+Not Worth Saving - Skyler Accord. Goth stuff.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/42rmSRBeqfITaIpB7Ybcs0?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+Where the Weeds Don't Grow - Zach Schimpf. Electronic indie pop.
+
+```{=html}
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2186672673/size=small/bgcol=ffffff/linkcol=0687f5/track=1029252354/transparent=true/" seamless><a href="https://zachschimpf.bandcamp.com/album/white-lightning">White Lightning by Zach Schimpf</a></iframe>
+```
+Ghosting - Isolde Lasoen. Belgian indie pop.
+
+```{=html}
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3122961206/size=small/bgcol=ffffff/linkcol=0687f5/track=4104854908/transparent=true/" seamless><a href="https://isoldelasoen.bandcamp.com/album/oh-dear">Oh Dear by Isolde Lasoen</a></iframe>
+```
+Runner - CARSICK. Pop-punk.
+
+```{=html}
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1718294732/size=small/bgcol=ffffff/linkcol=0687f5/track=1139781541/transparent=true/" seamless><a href="https://alcopop.bandcamp.com/album/drunk-hymns">Drunk Hymns by CARSICK</a></iframe>
+```
+# DJ Mixes
+
+I did not listen to many DJ mixes this year, but I can highly recommend this entry from the Fabric Presents series, in which Chaos in the CBD dig up a lot of great vintage house tunes.
+
+```{=html}
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1500360339/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://chaosinthecbd.bandcamp.com/album/fabric-presents-chaos-in-the-cbd">fabric presents Chaos In The CBD by Chaos In The CBD</a></iframe>
+```
