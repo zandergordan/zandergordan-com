@@ -18,6 +18,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - icon: substack
+        href: https://www.quite.so
       - icon: github
         href: https://github.com/zandergordan/zandergordan-com
       - icon: rss
