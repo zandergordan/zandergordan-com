@@ -10,7 +10,34 @@
 <atom:link href="https://www.zandergordan.com/index.xml" rel="self" type="application/rss+xml"/>
 <description>Zander Gordan&#39;s personal blog</description>
 <generator>quarto-1.3.353</generator>
-<lastBuildDate>Sun, 14 Jan 2024 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 19 Jan 2024 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>First Eurorack Case Built</title>
+  <dc:creator>Zander Gordan</dc:creator>
+  <link>https://www.zandergordan.com/posts/eurorack-groovebox/case-complete.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://www.zandergordan.com/posts/eurorack-groovebox/mantis.jpg" class="img-fluid"></p>
+<p>Today I’ve finally finished doing something that I started last year: building out my first eurorack case. It started with the Moog Mother-32 and DFAM combo, which I got when I visited the Moog factory / flagship store during my bachelor party last year. I then added a few modules when I visited Scotland on the honeymoon and made a stop at <a href="https://www.signalsounds.com">Signal Sounds</a> in Glasgow. Since then I have made another order from Signal Sounds, and I asked my family for a couple modules for Christmas, and now I have the result.</p>
+<p><a href="https://www.modulargrid.net/e/racks/view/2456186" class="uri">https://www.modulargrid.net/e/racks/view/2456186</a></p>
+<p>In addition to the modular, I also picked up the Ableton Push 3 last year. I used to have a Push 2 but sold it years ago as I never used it. Earlier this week, I was thinking about selling the Push 3 for the same reason. But I’ve decided I’m going to unplug the Push from the computer and get used to doing everything in the standalone mode. I think the learning curve will be steep getting used to doing things on the Push, but it will ultimately be better than if I just keep using the keyboard and mouse for everything.</p>
+<p>The Expert Sleepers ES-3 and ES-6 modules in the Eurorack connect to the Push through ADAT, and I use the Push as a mixer, as a sampler, for effects, and for LFO’s through the CV Tools add-on.</p>
+<p><img src="https://www.zandergordan.com/posts/eurorack-groovebox/music setup.jpg" class="img-fluid"></p>
+<p>So that’s the whole setup, and I think I will keep it this way probably at least through the early Summer, and try to make a few tracks with this configuration. Perhaps it is optimistic to think I can abstain from adding on to the eurorack for that long.</p>
+<p>Here are a few snippets from me jamming on the modular (no Ableton except for mixing):</p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1722544707&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ebinlo" title="EBINLO" target="_blank" style="color: #cccccc; text-decoration: none;">EBINLO</a> · <a href="https://soundcloud.com/ebinlo/eurorack-jam-highlights-jan-19-2024" title="Eurorack Jam Highlights Jan 19 2024" target="_blank" style="color: #cccccc; text-decoration: none;">Eurorack Jam Highlights Jan 19 2024</a></div>
+
+
+
+ ]]></description>
+  <category>music</category>
+  <category>life</category>
+  <guid>https://www.zandergordan.com/posts/eurorack-groovebox/case-complete.html</guid>
+  <pubDate>Fri, 19 Jan 2024 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Weekend Update #1</title>
   <dc:creator>Zander Gordan</dc:creator>

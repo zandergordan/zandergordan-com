@@ -1,0 +1,26 @@
+---
+title: "First Eurorack Case Built"
+author: "Zander Gordan"
+date: "2024-01-19"
+categories: [music, life]
+---
+
+![](mantis.jpg)
+
+Today I've finally finished doing something that I started last year: building out my first eurorack case. It started with the Moog Mother-32 and DFAM combo, which I got when I visited the Moog factory / flagship store during my bachelor party last year. I then added a few modules when I visited Scotland on the honeymoon and made a stop at [Signal Sounds](https://www.signalsounds.com) in Glasgow. Since then I have made another order from Signal Sounds, and I asked my family for a couple modules for Christmas, and now I have the result.
+
+<https://www.modulargrid.net/e/racks/view/2456186>
+
+In addition to the modular, I also picked up the Ableton Push 3 last year. I used to have a Push 2 but sold it years ago as I never used it. Earlier this week, I was thinking about selling the Push 3 for the same reason. But I've decided I'm going to unplug the Push from the computer and get used to doing everything in the standalone mode. I think the learning curve will be steep getting used to doing things on the Push, but it will ultimately be better than if I just keep using the keyboard and mouse for everything.
+
+The Expert Sleepers ES-3 and ES-6 modules in the Eurorack connect to the Push through ADAT, and I use the Push as a mixer, as a sampler, for effects, and for LFO's through the CV Tools add-on.
+
+![](music%20setup.jpg)
+
+So that's the whole setup, and I think I will keep it this way probably at least through the early Summer, and try to make a few tracks with this configuration. Perhaps it is optimistic to think I can abstain from adding on to the eurorack for that long.
+
+Here are a few snippets from me jamming on the modular (no Ableton except for mixing):
+
+```{=html}
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1722544707&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ebinlo" title="EBINLO" target="_blank" style="color: #cccccc; text-decoration: none;">EBINLO</a> · <a href="https://soundcloud.com/ebinlo/eurorack-jam-highlights-jan-19-2024" title="Eurorack Jam Highlights Jan 19 2024" target="_blank" style="color: #cccccc; text-decoration: none;">Eurorack Jam Highlights Jan 19 2024</a></div>
+```
