@@ -4,6 +4,8 @@ title: "About"
 
 My name is Zander. This website houses my personal blog. It contains miscellaneous observations and musings on any and all topics which I might feel like writing about.
 
+By trade I am an economist, you can see my research profile on [Google Scholar](https://scholar.google.com/citations?user=BFc4yhMAAAAJ&hl=en&oi=ao).
+
 I sometimes produce electronic music and mixes under the name [EBINLO](https://www.ebinlo.com).
 
 I'm also a big sports fan, my allegiances are as follows, in descending order of emotional investment:
@@ -19,6 +21,6 @@ I'm also a big sports fan, my allegiances are as follows, in descending order of
 
 I am not invested in NFL/NBA/NHL, but still watch occasionally.
 
-By trade, I am an economist, currently employed as a contractor for the National Oceanic and Atmospheric Administration, in the fisheries division. I may sometimes share my thoughts on matters of economics and public policy, though I will steadfastly avoid any discussion of fisheries or fisheries-adjacent issues, and I need to be clear that nothing published on this site represents an official NOAA or government opinion, it is all strictly my personal content, created in my spare time and not funded by, reviewed by, or in any way connected with my employment.
+I am currently employed as a contractor for the National Oceanic and Atmospheric Administration, in the fisheries division. I may sometimes share my thoughts on matters of economics and public policy, though I will steadfastly avoid any discussion of fisheries or fisheries-adjacent issues, and I need to be clear that nothing published on this site represents an official NOAA or government opinion, it is all strictly my personal content, created in my spare time and not funded by, reviewed by, or in any way connected with my employment.
 
 ![](IMG_2540.jpeg){fig-alt="Me at afternoon tea outside Exeter Cathedral"}
