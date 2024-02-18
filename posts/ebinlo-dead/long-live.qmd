@@ -1,0 +1,17 @@
+---
+title: "EBINLO Is Dead, Long Live EBINLO"
+author: "Zander Gordan"
+date: "2024-02-17"
+categories: [music, life]
+---
+
+I am now releasing music under the artist name Zander Gordan. The former name EBINLO was chosen at random, as something that could reasonably pass for a DJ/Producer moniker. Contrary to some suspicions, it was not an acronym. When I made the decision last year to make some music again for the first time in a long time, I was not ready to associate what I was doing with my own name and ego, so a disposable moniker was necessary for the sake of psychological distance. I am now more confident that this is something I intend to do for the long term, and it feels appropriate to release music going forward under my own name.
+
+I am also switching to Soundcloud as my distributor for the time being, so my new tracks will be available there first before they are on Spotify et al. I just released a new track: I'm Sorry Babe But I Just Can't Dance To This Chord Progression
+
+```{=html}
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1750267074&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/zandergordan" title="Zander Gordan" target="_blank" style="color: #cccccc; text-decoration: none;">Zander Gordan</a> · <a href="https://soundcloud.com/zandergordan/sorry-babe-but-i-just-cant-dance-to-this-chord-progression" title="Sorry Babe But I Just Can&#x27;t Dance To This Chord Progression" target="_blank" style="color: #cccccc; text-decoration: none;">Sorry Babe But I Just Can&#x27;t Dance To This Chord Progression</a></div>
+```
+It is my favorite little bit of modular mayhem yet: almost everything you hear in this track is the [SSF Ultra-Perc](https://www.signalsounds.com/steady-state-fate-entity-ultra-perc-eurorack-percussion-module) being modulated 5 different ways, including at audio rates.
+
+Here's to many more releases to come!
