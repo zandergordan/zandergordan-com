@@ -1,0 +1,18 @@
+---
+title: "(Re)Starting to Learn Max/MSP"
+author: "Zander Gordan"
+date: "2024-03-01"
+categories: [music, life, programming]
+---
+
+![Zander's First Max Patch in 2024](first_max_patch.png)
+
+This evening I am embarking on something which I have not seriously considered since 2020: learning a new programming language. At that time I decided to learn the R language since it was the data analysis tool of choice among my new coworkers at NOAA, now I am learning Max MSP because it appears to be the tool of choice for a lot of people making weird electronic music.
+
+I have been aware of Max for a long time, since at least 2011 I think. I may have even experimented with it at some point in late high school or early college. And since returning to Ableton Live to make music over the past year or so, I have used Max For Live devices, especially in recent months to interface between Ableton and my eurorack rig. In fact, this is precisely my motivator for learning the language: I want to make Max4Live devices that will augment the possibilities of my Eurorack + Push setup, without having to get a bigger eurorack case and amassing a larger collection of modules.
+
+I am happy to see that there is now what seems to be a great resource for someone in my position, in the form of a Kadenze course. As I recall, the information available online for learning Max back 10-15 years ago was not particularly accessible, or anyway that is how I remember feeling at the time.
+
+It's worth noting that yesterday evening I briefly looked into learning C++, with an eye to eventually using JUCE to do plugin development and learn DSP that way, but I think I am going to get a lot more fulfillment out of the limited time I have to devote to music stuff by going the Max route.
+
+The screenshot above is from the first exercise of the Kadenze course, which is assembled step by step in the lesson videos, and the exercise is then to slightly modify the patch to change the behavior. It took me just a couple minutes to think of how to complete the exercise, and I learned a good bit in the process. Overall I am impressed with the pedagogy so far, and hope the rest of the class will be equally good.
