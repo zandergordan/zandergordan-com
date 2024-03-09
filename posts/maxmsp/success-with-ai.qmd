@@ -1,0 +1,16 @@
+---
+title: "It Has Happened"
+author: "Zander Gordan"
+date: "2024-03-09"
+categories: [music, life, programming, ai]
+---
+
+![](ai_screenshot_20240309.png)
+
+AI has provided me with useful results. It only took over a year. I tried several times earlier last year, and never found it very useful.
+
+What is notable about the current success is that I was asking it for some very basic advice about using the programming language Max. Whereas my priory inquiries had been about relatively advanced economics or R programming, which the AI did not seem capable of helping with.
+
+Overall I am still not as convinced of how groundbreaking this stuff is as some people are, but I see clearly now that it is a great boon for learners and pedagogy, assuming that it can be relied upon to know its own limitations. A significant improvement over the previous method of searching for help in this context: googling keywords and praying for a well written forum post.
+
+And yes, the inquiry was in service of creating my very own first original Max patch: a simple clocked random sampler, the core logic for which is now complete. I now simply need to learn the Max4Live components necessary to flesh out a user interface and i/o that is compatible with the Push 3.

@@ -10,7 +10,32 @@
 <atom:link href="https://www.zandergordan.com/index.xml" rel="self" type="application/rss+xml"/>
 <description>Zander Gordan&#39;s personal blog</description>
 <generator>quarto-1.3.353</generator>
-<lastBuildDate>Fri, 01 Mar 2024 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 09 Mar 2024 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>It Has Happened</title>
+  <dc:creator>Zander Gordan</dc:creator>
+  <link>https://www.zandergordan.com/posts/maxmsp/success-with-ai.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://www.zandergordan.com/posts/maxmsp/ai_screenshot_20240309.png" class="img-fluid"></p>
+<p>AI has provided me with useful results. It only took over a year. I tried several times earlier last year, and never found it very useful.</p>
+<p>What is notable about the current success is that I was asking it for some very basic advice about using the programming language Max. Whereas my priory inquiries had been about relatively advanced economics or R programming, which the AI did not seem capable of helping with.</p>
+<p>Overall I am still not as convinced of how groundbreaking this stuff is as some people are, but I see clearly now that it is a great boon for learners and pedagogy, assuming that it can be relied upon to know its own limitations. A significant improvement over the previous method of searching for help in this context: googling keywords and praying for a well written forum post.</p>
+<p>And yes, the inquiry was in service of creating my very own first original Max patch: a simple clocked random sampler, the core logic for which is now complete. I now simply need to learn the Max4Live components necessary to flesh out a user interface and i/o that is compatible with the Push 3.</p>
+
+
+
+ ]]></description>
+  <category>music</category>
+  <category>life</category>
+  <category>programming</category>
+  <category>ai</category>
+  <guid>https://www.zandergordan.com/posts/maxmsp/success-with-ai.html</guid>
+  <pubDate>Sat, 09 Mar 2024 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>(Re)Starting to Learn Max/MSP</title>
   <dc:creator>Zander Gordan</dc:creator>
