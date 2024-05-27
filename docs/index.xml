@@ -10,7 +10,28 @@
 <atom:link href="https://www.zandergordan.com/index.xml" rel="self" type="application/rss+xml"/>
 <description>Zander Gordan&#39;s personal blog</description>
 <generator>quarto-1.3.353</generator>
-<lastBuildDate>Sat, 18 May 2024 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 27 May 2024 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Weekend Update #4</title>
+  <dc:creator>Zander Gordan</dc:creator>
+  <link>https://www.zandergordan.com/posts/weekend-update-1/WU 4.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Happy Memorial Day!</p>
+<p>There is nothing much to report around here. In many places throughout America today will mark the “start of Summer”, but here in Pinellas County the long Summer has already begun some weeks ago, and I do not expect reprieve until, optimistically, Halloween.</p>
+<p>Amid the heat, I have mostly been sheltering inside, though we did manage to get a little sunburnt earlier this weekend. The twilight hours should in principle be quite nice right now, were it not for the bugs. Though we in any case try to enjoy them a bit.</p>
+<p>All creative pursuits except dancing have been put on the backburner for now, but we will see if the Summer does not provide some opportunities to return to them.</p>
+
+
+
+ ]]></description>
+  <category>life</category>
+  <guid>https://www.zandergordan.com/posts/weekend-update-1/WU 4.html</guid>
+  <pubDate>Mon, 27 May 2024 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Weekend Update #3</title>
   <dc:creator>Zander Gordan</dc:creator>
@@ -741,27 +762,6 @@ font-style: inherit;">ggplotly</span>(p)</span></code></pre></div>
   <category>sports</category>
   <guid>https://www.zandergordan.com/posts/rivalry-week/rivalry-week.html</guid>
   <pubDate>Sat, 25 Nov 2023 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>My First Post</title>
-  <dc:creator>Zander Gordan</dc:creator>
-  <link>https://www.zandergordan.com/posts/first-post/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Tonight I set up my first Quarto blog, I had previously used blogdown but was never consistent about it, and have since deleted the site. Maybe this time I will be more consistent in posting.</p>
-<p>Expected topics to include economics, public policy, sports, music, and life. Possibly, though not definitely, in that order.</p>
-<p>Here’s a photo of my dog Cannoli:</p>
-<p><img src="https://www.zandergordan.com/posts/first-post/IMG_0352.jpg" class="img-fluid"></p>
-
-
-
- ]]></description>
-  <category>news</category>
-  <guid>https://www.zandergordan.com/posts/first-post/index.html</guid>
-  <pubDate>Mon, 20 Nov 2023 05:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
