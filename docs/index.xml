@@ -6,16 +6,49 @@
       version="2.0">
 <channel>
 <title>Zander Gordan</title>
-<link>https://www.zandergordan.com/index.html</link>
+<link>https://www.zandergordan.com/</link>
 <atom:link href="https://www.zandergordan.com/index.xml" rel="self" type="application/rss+xml"/>
 <description>Zander Gordan&#39;s personal blog</description>
-<generator>quarto-1.3.353</generator>
-<lastBuildDate>Mon, 27 May 2024 04:00:00 GMT</lastBuildDate>
+<generator>quarto-1.4.555</generator>
+<lastBuildDate>Sun, 18 Aug 2024 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>I Switched to Bitwig</title>
+  <dc:creator>Zander Gordan</dc:creator>
+  <link>https://www.zandergordan.com/posts/musicstuff/bitwig switch.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://www.zandergordan.com/posts/musicstuff/auto organ patch.png" class="img-fluid figure-img"></p>
+<figcaption>My first Bitwig Grid Patch</figcaption>
+</figure>
+</div>
+<p>With Labor day fast approaching I thought it was time to post again. Life has gone on mostly smoothly, I am on the job market which is always fun, and in the meantime I have made some fun adjustments. I posted <a href="https://zandergordan.com/posts/maxmsp/beginnings-with-max.html">previously</a> about trying to learn Max/MSP, and I struggled quite a bit with this endeavor. I had heard of Bitwig and it’s Grid, and eventually decided to sell my Push and give it a try. I’m so glad I did!</p>
+<p>My early efforts with Bitwig revolved around integrating my fledlging hardware modular setup with the Grid, which is straightfoward and rewarding to do. But this weekend I finally decided to tackle a more ambitious project, which I originally was trying to do in Max/MSP. It is a synth patch that I refer to as an “Auto Tremolo MPE Organ.” It incorporates 3 dimensions of MPE sensitivity per voice, X Y and Z. X maps to pitch as usual, and Z to overall volume, but Y deviates from its normal use as a “timbre” control and instead affects the rate of an LFO that is hooked into the VCA to give a Tremolo effect. Below is a demo of what is possible with this configuration:</p>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1899699066%3Fsecret_token%3Ds-5LlfBk93vzf&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/zandergordan" title="Zander Gordan" target="_blank" style="color: #cccccc; text-decoration: none;">Zander Gordan</a> · <a href="https://soundcloud.com/zandergordan/auto-organ-demo-2024-08-18-1735/s-5LlfBk93vzf" title="Auto Organ Demo 2024 - 08 - 18 1735" target="_blank" style="color: #cccccc; text-decoration: none;">Auto Organ Demo 2024 - 08 - 18 1735</a></div>
+<p>Note that both the Y and Z dimensions of control are affecting volume. In other words, the effect I achieve here could theoretically be achieved by a skilled player simply manipulating the Z dimension in a rhythmic fashion. But I doubt I personally could achieve the sound that I do with this configuration without the LFO-enabled auto tremolo. And there is still some room to route the Y and Z controls to additional destinations to achieve some deeper control over tone for an even more expressive patch. But before going down that route I simply want to explore what is possible compositionally, the demo above is just a black key jam that I threw together with minimal effort. Below is the preset in case anyone ever wants to try it themselves.</p>
+<p><a href="MPE Auto Tremolo Organ.bwpreset">Download Preset</a></p>
+<p>Overall I can not thank the Bitwig team enough for their efforts in creating this intuitive virtual modular environment, I really struggle to express how much simpler it was to achieve my vision with this system compared to my struggles earlier trying to learn Max/MSP. I am sure Max has it’s place, especially in providing greater flexibility for full-time music technologists, but as a hobbyist finding time for music around the demands of a full time career I think the Grid is truly brilliant in its simplicity and accessibility.</p>
+
+
+
+ ]]></description>
+  <category>life</category>
+  <category>music</category>
+  <category>technology</category>
+  <guid>https://www.zandergordan.com/posts/musicstuff/bitwig switch.html</guid>
+  <pubDate>Sun, 18 Aug 2024 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Weekend Update #4</title>
   <dc:creator>Zander Gordan</dc:creator>
   <link>https://www.zandergordan.com/posts/weekend-update-1/WU 4.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -41,10 +74,11 @@
 
 
 
+
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://www.zandergordan.com/posts/weekend-update-1/DSC02039.jpeg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Me in Iceland</figcaption>
+<figcaption>Me in Iceland</figcaption>
 </figure>
 </div>
 <p>Most notably, we have returned from Iceland. The hot dogs are nothing special despite supposedly containing some amount of lamb, but represent an oasis of value in an otherwise high COL country: I had 5 over 6 days. Early April is a “shoulder season” but I thought it was ideal in providing the “ice” in Iceland while still being easy to navigate. Hannah wants to go back in Summer, but I fear the crowds.</p>
@@ -70,6 +104,7 @@
 
 
 
+
 <p>Happy St.&nbsp;Patrick’s day, for another 3 hours at least. As I begin writing, Atlanta United is about to wrap up at 2-0 victory over Orlando, getting a healthy start to the 2024 campaign.</p>
 <p>The MLB season will begin on Tuesday, with a break from tradition as the Dodgers and Padres play a 2 game series in Korea, before Opening Day. Hannah will be waking up to watch these games at 6am eastern, I will have to make a game-time decision as to whether I am willing to give up my beauty sleep.</p>
 <p>I finished reading my last great book some time ago, which was the Briggs translation of War and Peace. I’ve decided to embark on a new literary undertaking, which is to get a study bible (HarperCollins) and some other related works and begin familiarizing myself with the Christian tradition. This obviously is a long-term endeavor, and in my opinion not likely to be terribly rewarding on its own, and so my plan is to intersperse this learning with revisiting some of the classics already familiar to me, including especially Shakespeare, and the American Transcendentalists, and to try to appreciate aspects of these works which I may have not when I read them in High School with little to no familiarity with the Bible.</p>
@@ -89,6 +124,7 @@
   <dc:creator>Zander Gordan</dc:creator>
   <link>https://www.zandergordan.com/posts/MLB/MLB 2024 Season Odds.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -176,7 +212,11 @@ font-style: inherit;">+</span> <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">scale_y_log10</span>()</span></code></pre></div>
 <div class="cell-output-display">
-<p><img src="https://www.zandergordan.com/posts/MLB/MLB-2024-Season-Odds_files/figure-html/unnamed-chunk-2-1.png" class="img-fluid" width="672"></p>
+<div>
+<figure class="figure">
+<p><img src="https://www.zandergordan.com/posts/MLB/MLB-2024-Season-Odds_files/figure-html/unnamed-chunk-2-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
 </div>
 </div>
 <p>It seems that there is pretty much a log-linear inverse relationship between expected win total (technically an over under is not the same thing as an expected value, but I will use the terms interchangeably) and your winnings from betting the team to win the world series. Notably, for the worst teams, you do not win as much for betting on them as you might expect, no doubt the oddsmakers want to limit their potential downside from those who are attracted to the most outrageous bets.</p>
@@ -286,6 +326,7 @@ font-style: inherit;">ggplotly</span>(p)</span></code></pre></div>
 
 
 
+
 <p><img src="https://www.zandergordan.com/posts/maxmsp/ai_screenshot_20240309.png" class="img-fluid"></p>
 <p>AI has provided me with useful results. It only took over a year. I tried several times earlier last year, and never found it very useful.</p>
 <p>What is notable about the current success is that I was asking it for some very basic advice about using the programming language Max. Whereas my priory inquiries had been about relatively advanced economics or R programming, which the AI did not seem capable of helping with.</p>
@@ -311,10 +352,11 @@ font-style: inherit;">ggplotly</span>(p)</span></code></pre></div>
 
 
 
+
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://www.zandergordan.com/posts/maxmsp/first_max_patch.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Zander’s First Max Patch in 2024</figcaption>
+<figcaption>Zander’s First Max Patch in 2024</figcaption>
 </figure>
 </div>
 <p>This evening I am embarking on something which I have not seriously considered since 2020: learning a new programming language. At that time I decided to learn the R language since it was the data analysis tool of choice among my new coworkers at NOAA, now I am learning Max MSP because it appears to be the tool of choice for a lot of people making weird electronic music.</p>
@@ -337,6 +379,7 @@ font-style: inherit;">ggplotly</span>(p)</span></code></pre></div>
   <dc:creator>Zander Gordan</dc:creator>
   <link>https://www.zandergordan.com/posts/ebinlo-dead/long-live.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -364,6 +407,7 @@ font-style: inherit;">ggplotly</span>(p)</span></code></pre></div>
 
 
 
+
 <p>It is presently fashionable in some quarters to insist that today’s big game is rigged in favor of the Chiefs (the details do not bear repeating so I will leave it at that). With sports betting now legal in many jurisdictions across the US, I wonder what portion of people who hold this belief are interested in monetizing their insider knowledge.</p>
 <p>I just checked my local sports betting app, and the odds ratios are 1.83 for the 49er’s and 2.00 for the Chiefs, meaning the 49ers are in fact slightly favored by Vegas, and the app is offering a double-or-nothing proposition for every dollar someone wagers on the Chiefs.</p>
 <p>If you are 90+ percent sure that the game is rigged in favor of the Chiefs, what portion of your life savings should you be betting on this incredible chance to double your money instantly?</p>
@@ -387,6 +431,7 @@ font-style: inherit;">ggplotly</span>(p)</span></code></pre></div>
 
 
 
+
 <iframe src="https://drive.google.com/file/d/1IWFMi2ikK06W1stPUEl7rNqFqiXMNuAS/preview" width="640" height="480" allow="autoplay"></iframe>
 <p>Today I am packing up my keytar, to ship it off to it’s buyer. This is in fact the second keytar I have owned, having sold the first one back in I believe 2017. I have fond memories of both models, this one a Korg RK-100S2, which has microKORG-esque presets, and I love the ergonomics of the keytar, allowing me to riff on a melody while walking around my house absent-mindedly.</p>
 <p>But, unfortunately I just don’t think the keytar fits into my plans for the EBINLO project. I plan on using Eurorack sequencers to create the melodies for EBINLO songs, and frankly my keyboard skills were never all that impressive anyway.</p>
@@ -405,6 +450,7 @@ font-style: inherit;">ggplotly</span>(p)</span></code></pre></div>
   <dc:creator>Zander Gordan</dc:creator>
   <link>https://www.zandergordan.com/posts/eurorack-groovebox/case-complete.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -436,6 +482,7 @@ font-style: inherit;">ggplotly</span>(p)</span></code></pre></div>
 
 
 
+
 <p>Everton picks up a hard fought <a href="https://www.liverpoolecho.co.uk/sport/football/football-news/everton-aston-villa-score-highlights-28443636">point</a> over Villa, providing a little separation from the relegation zone. I remain optimistic the new stadium will debut as an EPL venue. UTFT.</p>
 <p>Good news out of the Florida legislature’s first week in session, some bipartisan sanity on the outrageous “slavery benefited the slaves” history curriculum: <a href="https://floridaphoenix.com/2024/01/11/dems-gop-push-to-remove-language-about-slaves-skills-and-personal-benefit-in-fl-state-standards/">Florida Phoenix</a></p>
 <p>The <a href="https://www.bonnaroo.com">Bonnaroo</a> lineup is out, I am pleased especially with Sunday’s Four Tet and fred again.. inclusion.</p>
@@ -456,6 +503,7 @@ font-style: inherit;">ggplotly</span>(p)</span></code></pre></div>
   <dc:creator>Zander Gordan</dc:creator>
   <link>https://www.zandergordan.com/posts/teenage-labor/amend-those.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -508,10 +556,11 @@ font-style: inherit;">ggplotly</span>(p)</span></code></pre></div>
 
 
 
+
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://www.zandergordan.com/posts/beer-train/beertrain.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">All aboard the beer train!</figcaption>
+<figcaption>All aboard the beer train!</figcaption>
 </figure>
 </div>
 <p>On Jan 5 2019 I had a brilliant idea: a bar where the beer is served by trains on a model railroad.</p>
@@ -535,10 +584,11 @@ font-style: inherit;">ggplotly</span>(p)</span></code></pre></div>
 
 
 
+
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://www.zandergordan.com/posts/review-2023/IMG_1806.jpeg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">The Scott Monument in Edinburgh, captured on my honeymoon</figcaption>
+<figcaption>The Scott Monument in Edinburgh, captured on my honeymoon</figcaption>
 </figure>
 </div>
 <p>I got married, visited the ancestral homeland (Scotland), and attended my first in-person academic conference in years (NAAFE). 2023 was the year I felt the pandemic move firmly into the rear view. Hopefully going forward I will maintain that momentum, especially in regards to travel, as I feel I have a few lost years to make up for.</p>
@@ -547,8 +597,8 @@ font-style: inherit;">ggplotly</span>(p)</span></code></pre></div>
 <p>Since I watched a lot of sports (besides soccer), I also watched a lot of commercials. I believe I am relatively pro-commercial, at least compared to most people I know. Yet I have numerous gripes with the commercials I see. First and foremost: there simply is not enough variety. I see the same commercials again over and over, and I simply do not understand the economics of how that, in the current year, is the equilibrium. If you spend time on YouTube, you will see a much greater variety of ads, often linked to the topic of the video you are watching. Yet when watching sports, I am expected to watch the same ads over and over, mostly from insurance companies. Who selects insurance coverage on any other basis than getting a large number of quotes and selecting the best rate? And why is Shaq the spokesman for everything from pizza to cheap cruise vacations to printer ink (also for Icy-Hot, but at least that one makes sense, it is the only ad in which he actually, you know, plays basketball). In 2024, I need MLB Network to get it together and run ads from more than 8 companies.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://www.zandergordan.com/posts/review-2023/https:/mma.prnewswire.com/media/2281632/PepsiCo_Shaq_I_Wish_Commercial.jpg?p=twitter" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">How many commercials can this guy do?</figcaption>
+<p><img src="https://mma.prnewswire.com/media/2281632/PepsiCo_Shaq_I_Wish_Commercial.jpg?p=twitter" class="img-fluid figure-img"></p>
+<figcaption>How many commercials can this guy do?</figcaption>
 </figure>
 </div>
 <p>I digress.</p>
@@ -558,8 +608,8 @@ font-style: inherit;">ggplotly</span>(p)</span></code></pre></div>
 <p>I already made a post about my favorite music of the year, but I neglected to talk about my personal musical activities for the year. I adopted a new moniker, <a href="https://www.ebinlo.com">EBINLO</a>, and released a few pieces of music and some DJ mixes. Going forward I will keep posts about music stuff mostly segregated to the EBINLO blog, but will occasionally mention it here as well, especially if there are any major milestones to report. This year saw me acquire more gear than I ever have before, thanks to my decision to get into Eurorack. But I think it is working, the modular system keeps me motivated to create in a way that did not happen when working just in Ableton. In the back of my mind I always consider whether I should try to improve my piano skills as a way to improve my relationship with music-making, but probably I never will. I would say my biggest goal for music making in 2024 is to spend less time on sound design and more time on arrangement.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://www.zandergordan.com/posts/review-2023/https:/f4.bcbits.com/img/a0837383706_16.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">My newest track includes the unprecedented use of inhale-scream vocals, which I may expand on in the future</figcaption>
+<p><img src="https://f4.bcbits.com/img/a0837383706_16.jpg" class="img-fluid figure-img"></p>
+<figcaption>My newest track includes the unprecedented use of inhale-scream vocals, which I may expand on in the future</figcaption>
 </figure>
 </div>
 <p>I didn’t dance enough this year! Probably I could say that about almost any year, but I think this year it was especially true. It’s so important to move around, and there’s no better way to move than with the music. I think I remain firmly committed to spontaneous, unchoreographed dancing, and I wonder what the current dance floor situation is like in the age of the TikTok dances.</p>
@@ -581,6 +631,7 @@ font-style: inherit;">ggplotly</span>(p)</span></code></pre></div>
   <dc:creator>Zander Gordan</dc:creator>
   <link>https://www.zandergordan.com/posts/music-2023/music-2023.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -640,6 +691,7 @@ font-style: inherit;">ggplotly</span>(p)</span></code></pre></div>
 
 
 
+
 <p>I recently received an email from the Florida Department of Environmental Protection informing me that “Effective Jan.&nbsp;1, 2024, at noon Eastern time, only Florida residents may make reservations for cabins and RV, tent, boat and equestrian campsites 11 months in advance. Non-Florida residents will be able to make reservations 10 months in advance.”</p>
 <p>This is the result of <a href="https://www.myfloridahouse.gov/Sections/Bills/billsdetail.aspx?BillId=76845&amp;SessionId=99#:~:text=CS%2FHB%20109%20%2D%20State%20Park%20Campsite%20Reservations&amp;text=State%20Park%20Campsite%20Reservations%3A%20Requires,specified%20information%20for%20advance%20reservations.">Florida 2023 HB 109</a>, signed into law back in May. I am not clear on whether I think this is a good or bad development. Selfishly speaking, it will make it slightly easier for me to get a booking at certain campsites, though I have not actually made such a booking since January 2022. On the other hand, I worry it may hurt our tourism industry. Thinking ahead, I also wonder whether similar laws being passed in other states could lead us to an unfortunate equilibrium where the best campsites in America are all for the exclusive use of in-state residents.</p>
 <p>Regarding tourism impacts, I think it is worth noting that there has been some serious neglect in how this bill was handled in the state legislature: potential tourism impacts were declared to be essentially 0. In the legislature, bills undergo staff review, including an economic impact section, if you look at the links under the “staff analysis” section of the previous link, you can see that in 8 separate versions of the analysis of this bill, all declared that the impact of this bill on state and local government revenues would be none.</p>
@@ -661,6 +713,7 @@ font-style: inherit;">ggplotly</span>(p)</span></code></pre></div>
   <dc:creator>Zander Gordan</dc:creator>
   <link>https://www.zandergordan.com/posts/on-shohei-deal/on-shohei-deal.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -697,6 +750,7 @@ font-style: inherit;">ggplotly</span>(p)</span></code></pre></div>
 
 
 
+
 <p>I do not believe that the College Football Playoff committee has a consistent system for determining its rankings of the top teams for inclusion in the playoffs.</p>
 <p>I am a Florida State fan, so I am obviously biased and outraged by the committee’s decision to exclude my team from the playoff. The talking heads on ESPN have today framed the committee’s decision in terms of two competing selection criteria: the best teams versus the most deserving teams. But I will argue that the committee has failed to consistently commit to one or the other of these criteria, and what results is a non-transparent, unsatisfying compromise.</p>
 <p>Today an undefeated Power 5 conference champion has been left out of the playoffs, in favor of a 1-loss SEC champion. Those who support this decision justify it by saying that it represents a movement by the committee towards truly selecting the best 4 teams, rather than the 4 most deserving teams. They argue, if Alabama were to play FSU next week, who would be considered the favorite? I agree that Alabama would be the favorite. But how consistent has the committee been in applying this logic? Not very, in my opinion.</p>
@@ -723,6 +777,7 @@ font-style: inherit;">ggplotly</span>(p)</span></code></pre></div>
 
 
 
+
 <p>I have been substantially more musically active this year than I have been any time since about 2014. Grad school is mostly to blame for the long lull, but with my PhD officially conferred in January of this year, I have had more time to devote to hobbies. I’ve adopted a new moniker, EBINLO, for this new round of activity.</p>
 <p>There have been a couple of original productions made with a hybrid Ableton and Eurorack setup:</p>
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1911763465/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless=""><a href="https://ebinlo.bandcamp.com/track/ok-im-up-now-what">OK I&#39;m Up, Now What by EBINLO</a></iframe>
@@ -738,30 +793,6 @@ font-style: inherit;">ggplotly</span>(p)</span></code></pre></div>
   <category>music</category>
   <guid>https://www.zandergordan.com/posts/on-ebinlo/on-ebinlo.html</guid>
   <pubDate>Thu, 30 Nov 2023 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>On Rivalry Week</title>
-  <dc:creator>Zander Gordan</dc:creator>
-  <link>https://www.zandergordan.com/posts/rivalry-week/rivalry-week.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>With kickoff rapidly approaching for The Game, and my precious Noles set to play their first full game without QB Jordan Travis this season, I wanted to crystallize what I have assimilated regarding success in football, <em>and perhaps, in life</em>.</p>
-<p>You’ve got to be physical.</p>
-<p>You’ve got to bring pressure.</p>
-<p>You’ve got to believe. I learned that from my court-ordered viewership of Ted Lasso.</p>
-<p>This is a tricky one: you’ve got give 110%. Some of the two sport athletes may be concerned with “not trying to do too much,” but this is not baseball.</p>
-<p>Most importantly, you’ve got to not lose. The mathematically inclined among you may believe that exactly as many games are won as are lost. But spiritually, more games are lost than won. The key, therefore, is not to lose.</p>
-<p><img src="https://www.zandergordan.com/posts/rivalry-week/go noles.png" class="img-fluid"></p>
-
-
-
- ]]></description>
-  <category>sports</category>
-  <guid>https://www.zandergordan.com/posts/rivalry-week/rivalry-week.html</guid>
-  <pubDate>Sat, 25 Nov 2023 05:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

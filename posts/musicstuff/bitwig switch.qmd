@@ -1,0 +1,21 @@
+---
+title: "I Switched to Bitwig"
+author: "Zander Gordan"
+date: "2024-08-18"
+categories: [life, music, technology]
+---
+
+![My first Bitwig Grid Patch](auto organ patch.png)
+
+With Labor day fast approaching I thought it was time to post again. Life has gone on mostly smoothly, I am on the job market which is always fun, and in the meantime I have made some fun adjustments. I posted [previously](https://zandergordan.com/posts/maxmsp/beginnings-with-max.html) about trying to learn Max/MSP, and I struggled quite a bit with this endeavor. I had heard of Bitwig and it's Grid, and eventually decided to sell my Push and give it a try. I'm so glad I did!
+
+My early efforts with Bitwig revolved around integrating my fledlging hardware modular setup with the Grid, which is straightfoward and rewarding to do. But this weekend I finally decided to tackle a more ambitious project, which I originally was trying to do in Max/MSP. It is a synth patch that I refer to as an "Auto Tremolo MPE Organ." It incorporates 3 dimensions of MPE sensitivity per voice, X Y and Z. X maps to pitch as usual, and Z to overall volume, but Y deviates from its normal use as a "timbre" control and instead affects the rate of an LFO that is hooked into the VCA to give a Tremolo effect. Below is a demo of what is possible with this configuration:
+
+```{=html}
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1899699066%3Fsecret_token%3Ds-5LlfBk93vzf&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/zandergordan" title="Zander Gordan" target="_blank" style="color: #cccccc; text-decoration: none;">Zander Gordan</a> · <a href="https://soundcloud.com/zandergordan/auto-organ-demo-2024-08-18-1735/s-5LlfBk93vzf" title="Auto Organ Demo 2024 - 08 - 18 1735" target="_blank" style="color: #cccccc; text-decoration: none;">Auto Organ Demo 2024 - 08 - 18 1735</a></div>
+```
+Note that both the Y and Z dimensions of control are affecting volume. In other words, the effect I achieve here could theoretically be achieved by a skilled player simply manipulating the Z dimension in a rhythmic fashion. But I doubt I personally could achieve the sound that I do with this configuration without the LFO-enabled auto tremolo. And there is still some room to route the Y and Z controls to additional destinations to achieve some deeper control over tone for an even more expressive patch. But before going down that route I simply want to explore what is possible compositionally, the demo above is just a black key jam that I threw together with minimal effort. Below is the preset in case anyone ever wants to try it themselves.
+
+[Download Preset](MPE Auto Tremolo Organ.bwpreset)
+
+Overall I can not thank the Bitwig team enough for their efforts in creating this intuitive virtual modular environment, I really struggle to express how much simpler it was to achieve my vision with this system compared to my struggles earlier trying to learn Max/MSP. I am sure Max has it's place, especially in providing greater flexibility for full-time music technologists, but as a hobbyist finding time for music around the demands of a full time career I think the Grid is truly brilliant in its simplicity and accessibility.
