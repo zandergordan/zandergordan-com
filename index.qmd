@@ -11,3 +11,9 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+
+The blog is staying up, and may even be updated, but the current project is a [radio station called Tempoa](http://tempoa.ddns.net/public/tempoa) (pronounced like cocoa).
+
+```{=html}
+<iframe src="http://tempoa.ddns.net/public/tempoa/embed" frameborder="0" allowtransparency="true" style="width: 100%; min-height: 150px; border: 0;"></iframe>
+```

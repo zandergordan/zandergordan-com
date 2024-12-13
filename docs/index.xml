@@ -20,11 +20,10 @@
 
 
 
-
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://www.zandergordan.com/posts/musicstuff/auto organ patch.png" class="img-fluid figure-img"></p>
-<figcaption>My first Bitwig Grid Patch</figcaption>
+<figcaption class="figure-caption">My first Bitwig Grid Patch</figcaption>
 </figure>
 </div>
 <p>With Labor day fast approaching I thought it was time to post again. Life has gone on mostly smoothly, I am on the job market which is always fun, and in the meantime I have made some fun adjustments. I posted <a href="https://zandergordan.com/posts/maxmsp/beginnings-with-max.html">previously</a> about trying to learn Max/MSP, and I struggled quite a bit with this endeavor. I had heard of Bitwig and it’s Grid, and eventually decided to sell my Push and give it a try. I’m so glad I did!</p>
