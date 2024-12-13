@@ -10,7 +10,29 @@
 <atom:link href="https://www.zandergordan.com/index.xml" rel="self" type="application/rss+xml"/>
 <description>Zander Gordan&#39;s personal blog</description>
 <generator>quarto-1.4.555</generator>
-<lastBuildDate>Sun, 18 Aug 2024 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Sep 2024 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>New EP Out Now</title>
+  <dc:creator>Zander Gordan</dc:creator>
+  <link>https://www.zandergordan.com/posts/musicstuff/someone or something.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I am releasing some tracks produced throughout the course of this year, some were done on my old Ableton setup and some on the new Bitwig setup, I believe all include the analog Eurorack gear I got in Scotland on the Honeymoon. Available now on Soundcloud and eventually on other streaming platforms as well.</p>
+<p>By the way I am taking keyboard lessons now and hope to produce some stuff more in the Western 12TET tradition, and also to collaborate more instead of doing this all at my home studio alone.</p>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1871656904&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/zandergordan" title="Zander Gordan" target="_blank" style="color: #cccccc; text-decoration: none;">Zander Gordan</a> · <a href="https://soundcloud.com/zandergordan/sets/someone-or-something-is-ringing-the-bell" title="Someone Or Something Is Ringing The Bell" target="_blank" style="color: #cccccc; text-decoration: none;">Someone Or Something Is Ringing The Bell</a></div>
+
+
+
+ ]]></description>
+  <category>life</category>
+  <category>music</category>
+  <guid>https://www.zandergordan.com/posts/musicstuff/someone or something.html</guid>
+  <pubDate>Sun, 01 Sep 2024 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>I Switched to Bitwig</title>
   <dc:creator>Zander Gordan</dc:creator>
@@ -766,32 +788,6 @@ font-style: inherit;">ggplotly</span>(p)</span></code></pre></div>
   <category>economics</category>
   <guid>https://www.zandergordan.com/posts/on-consistency/on-consistency.html</guid>
   <pubDate>Sun, 03 Dec 2023 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>On EBINLO</title>
-  <dc:creator>Zander Gordan</dc:creator>
-  <link>https://www.zandergordan.com/posts/on-ebinlo/on-ebinlo.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>I have been substantially more musically active this year than I have been any time since about 2014. Grad school is mostly to blame for the long lull, but with my PhD officially conferred in January of this year, I have had more time to devote to hobbies. I’ve adopted a new moniker, EBINLO, for this new round of activity.</p>
-<p>There have been a couple of original productions made with a hybrid Ableton and Eurorack setup:</p>
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1911763465/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless=""><a href="https://ebinlo.bandcamp.com/track/ok-im-up-now-what">OK I&#39;m Up, Now What by EBINLO</a></iframe>
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1036159911/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless=""><a href="https://ebinlo.bandcamp.com/track/attention-customers-please-excuse-the-smell">Attention Customers Please Excuse The Smell by EBINLO</a></iframe>
-<p>And a couple of DJ mixes focusing on indie pop tunes I found on Bandcamp, made with Ableton Live in the arrangement view, making heavy use of track automation to make the transitions:</p>
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1444759837&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ebinlo" title="EBINLO" target="_blank" style="color: #cccccc; text-decoration: none;">EBINLO</a> · <a href="https://soundcloud.com/ebinlo/ebinlo-presents" title="EBINLO Presents" target="_blank" style="color: #cccccc; text-decoration: none;">EBINLO Presents</a></div>
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1449269605&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ebinlo" title="EBINLO" target="_blank" style="color: #cccccc; text-decoration: none;">EBINLO</a> · <a href="https://soundcloud.com/ebinlo/ebinlo-presents-vol-2" title="EBINLO Presents Vol 2" target="_blank" style="color: #cccccc; text-decoration: none;">EBINLO Presents Vol 2</a></div>
-<p>But mostly I have just been jamming, coming up with stuff and then tearing it down and deleting it within the same day. I hope to put more mixes together, integrating the Eurorack setup into the creation of the mixes as well, and spanning a wider range of genres than just pop. Maybe I would make some more original tracks as well, but that is less interesting to me at the moment.</p>
-
-
-
- ]]></description>
-  <category>music</category>
-  <guid>https://www.zandergordan.com/posts/on-ebinlo/on-ebinlo.html</guid>
-  <pubDate>Thu, 30 Nov 2023 05:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

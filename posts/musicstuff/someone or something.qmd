@@ -1,0 +1,14 @@
+---
+title: "New EP Out Now"
+author: "Zander Gordan"
+date: "2024-09-01"
+categories: [life, music]
+---
+
+I am releasing some tracks produced throughout the course of this year, some were done on my old Ableton setup and some on the new Bitwig setup, I believe all include the analog Eurorack gear I got in Scotland on the Honeymoon. Available now on Soundcloud and eventually on other streaming platforms as well.
+
+By the way I am taking keyboard lessons now and hope to produce some stuff more in the Western 12TET tradition, and also to collaborate more instead of doing this all at my home studio alone.
+
+```{=html}
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1871656904&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/zandergordan" title="Zander Gordan" target="_blank" style="color: #cccccc; text-decoration: none;">Zander Gordan</a> · <a href="https://soundcloud.com/zandergordan/sets/someone-or-something-is-ringing-the-bell" title="Someone Or Something Is Ringing The Bell" target="_blank" style="color: #cccccc; text-decoration: none;">Someone Or Something Is Ringing The Bell</a></div>
+```
