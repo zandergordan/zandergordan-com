@@ -11,9 +11,3 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
-
-The blog is staying up, and may even be updated, but the current project is a radio station called [WDFO](https://www.wdfo.net):
-
-```{=html}
-<iframe src="https://radio.wdfo.net/public/wdfo/embed?theme=light" frameborder="0" allowtransparency="true" style="width: 100%; min-height: 150px; border: 0;"></iframe>
-```
