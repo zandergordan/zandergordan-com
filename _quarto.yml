@@ -18,6 +18,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - demo.qmd
       - icon: github
         href: https://github.com/zandergordan/zandergordan-com
       - icon: rss

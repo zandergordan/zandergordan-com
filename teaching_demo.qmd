@@ -1,0 +1,96 @@
+---
+title: "Economic Growth"
+subtitle: "Georgia College Demo"
+author: "Zander Gordan"
+format: revealjs
+---
+
+## Welcome
+
+**Quick poll** — *What share of humans lived in extreme poverty in 1820?* (hold up fingers, 1 for 10%, 9 for 90%)
+
+::: fragment
+<iframe src="https://ourworldindata.org/grapher/distribution-of-population-between-different-poverty-thresholds-historical?stackMode=relative&amp;tab=chart" loading="lazy" width="100%" height="500">
+
+</iframe>
+:::
+
+## Objectives
+
+By the end of today you should be able to:
+
+1.  **Define** GDP growth vs. real GDP per capita (economic) growth.
+2.  **Relate** economic growth to the PPF.
+3.  **Explain** why economic growth is important.
+4.  **Evaluate** *critiques* of growth.
+
+## Measuring Growth
+
+-   **GDP** (market value of final goods & services).
+-   **Real GDP** (adjusts for inflation).
+-   **Real GDP per capita** (income per person).
+-   Growth rate = %Δ over time.
+
+Economic growth = GDP growth - inflation - population growth
+
+## Growth as an Outward PPF Shift
+
+Drivers: **Capital (K)**, **Labor (L)**, **Technology (A)**
+
+<iframe src="https://www.econgraphs.org/graphs/scarcity/ppf/tech_improvements" width="100%" height="500" allowfullscreen>
+
+</iframe>
+
+## The Hockey‑Stick of History
+
+<iframe src="https://ourworldindata.org/grapher/global-average-gdp-per-capita-over-the-long-run?tab=chart" loading="lazy" width="100%" height="500">
+
+</iframe>
+
+**Why the sudden, unprecedented acceleration circa 1800?**
+
+## Growth & Human Welfare
+
+<iframe src="//www.gapminder.org/tools/?embedded=true#$chart-type=bubbles&amp;url=v2" style="width: 100%; height: 500px; margin: 0 0 0 0; border: 1px solid grey;" allowfullscreen>
+
+</iframe>
+
+Outliers? Does more money *always* buy longer life?
+
+## Technological Progress: The Price of Light
+
+<iframe src="https://ourworldindata.org/grapher/hours-of-work-per-1000-lumen-hours?tab=chart" loading="lazy" width="100%" height="500">
+
+</iframe>
+
+## Declines in Violent Crime
+
+![](england crime trend.png)
+
+## Critiques of Growth
+
+| Perspective | Core Claim |
+|--------------------------|----------------------------------------------|
+| **Anti‑consumerist** | Endless consumption erodes well‑being and virtue. |
+| **Environmental (Degrowth)** | Infinite growth on a finite planet is impossible; prioritize ecology. |
+| **Inequality** | Average growth hides rising gaps; *who* benefits matters. |
+
+## Addressing the Critiques
+
+-   **Green innovation** (cheaper clean energy).
+-   **Inclusive institutions** that spread gains.
+
+
+
+## Key Take‑Aways
+
+1.  Economic growth drove the “hockey‑stick” rise in income *and* life expectancy.
+2.  Growth = PPF shift powered by capital, labor, and—above all—technology.
+3.  Growth has trade‑offs: environment, inequality, culture.
+4.  Policy challenge: **sustain, enhance, and distribute** future growth.
+
+## Exit Ticket
+
+ *Pick one dividend of economic growth that you think is most important. Pick one drawback you think most important.*
+
+Thanks! Questions?

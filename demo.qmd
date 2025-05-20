@@ -1,0 +1,11 @@
+---
+title: "Teaching Demo"
+---
+
+<div>
+
+```{=html}
+<iframe class="slide-deck" src="teaching_demo.html" width="100%" height="500"></iframe>
+```
+
+</div>
