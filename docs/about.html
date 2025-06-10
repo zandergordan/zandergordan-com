@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.555">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Zander Gordan - About</title>
+<title>About – Zander Gordan</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -79,10 +79,10 @@ gtag('config', 'G-PNM0RM754C', { 'anonymize_ip': false});
 
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Zander Gordan - About">
+<meta property="og:title" content="About – Zander Gordan">
 <meta property="og:description" content="Zander Gordan’s personal blog">
 <meta property="og:site_name" content="Zander Gordan">
-<meta name="twitter:title" content="Zander Gordan - About">
+<meta name="twitter:title" content="About – Zander Gordan">
 <meta name="twitter:description" content="Zander Gordan’s personal blog">
 <meta name="twitter:card" content="summary">
 </head>
@@ -99,7 +99,7 @@ gtag('config', 'G-PNM0RM754C', { 'anonymize_ip': false});
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -111,6 +111,10 @@ gtag('config', 'G-PNM0RM754C', { 'anonymize_ip': false});
   <li class="nav-item">
     <a class="nav-link active" href="./about.html" aria-current="page"> 
 <span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./demo.html"> 
+<span class="menu-text">Teaching Demo</span></a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/zandergordan/zandergordan-com"> <i class="bi bi-github" role="img">
@@ -128,7 +132,7 @@ gtag('config', 'G-PNM0RM754C', { 'anonymize_ip': false});
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -137,7 +141,7 @@ gtag('config', 'G-PNM0RM754C', { 'anonymize_ip': false});
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
     </div>
 <!-- main -->
@@ -164,8 +168,8 @@ gtag('config', 'G-PNM0RM754C', { 'anonymize_ip': false});
 
 <p>My name is Zander. This website houses my personal blog. It contains miscellaneous observations and musings on any and all topics which I might feel like writing about.</p>
 <p>By trade I am an economist, you can see my research profile on <a href="https://scholar.google.com/citations?user=BFc4yhMAAAAJ&amp;hl=en&amp;oi=ao">Google Scholar</a>.</p>
-<p>As of Fall 2024 I have also returned to teaching economics, as an adjunct instructor at Hillsborough Community College.</p>
-<p>I sometimes produce <a href="https://zandergordan.bandcamp.com">electronic music</a>. I was an Ableton user since 2012, and got into eurorack in 2023. As of July 2024 I am attempting to convert to Bitwig.</p>
+<p>As of Fall 2025 I am joining the faculty at Georgia College, having previously spent the initial 5 years of my career after grad school working for ECS Federal on a contract supporting NOAA Fisheries Southeast Fisheries Science Center on issues related to recreational fishing.</p>
+<p>I am an avid musician, specializing in the use of modular sound design and composition tools including a fledgling Eurorack system interfaced with Bitwig, and sometimes also Max/MSP. I was an Ableton user since 2012, then started the eurorack system in 2023, which prompted the switch to Bitwig in 2024.</p>
 <p>I’m also a big sports fan, my allegiances are as follows, in descending order of emotional investment:</p>
 <ol type="1">
 <li>In college football: FSU Seminoles</li>
@@ -178,7 +182,6 @@ gtag('config', 'G-PNM0RM754C', { 'anonymize_ip': false});
 <li>In any other college athletics: FSU Seminoles</li>
 </ol>
 <p>I am not invested in NFL/NBA/NHL, but still watch occasionally.</p>
-<p>I am currently employed as a contractor for the National Oceanic and Atmospheric Administration, in the fisheries division. I may sometimes share my thoughts on matters of economics and public policy, though I will steadfastly avoid any discussion of fisheries or fisheries-adjacent issues, and I need to be clear that nothing published on this site represents an official NOAA or government opinion, it is all strictly my personal content, created in my spare time and not funded by, reviewed by, or in any way connected with my employment.</p>
 <p><img src="IMG_2540.jpeg" class="img-fluid" alt="Me at afternoon tea outside Exeter Cathedral"></p>
 
 
@@ -219,18 +222,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -262,7 +254,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp("https:\/\/www\.zandergordan\.com");
@@ -270,7 +284,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
