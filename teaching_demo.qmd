@@ -65,12 +65,12 @@ Outliers? Does more money *always* buy longer life?
 
 ## Declines in Violent Crime
 
-![](england crime trend.png)
+![](england%20crime%20trend.png)
 
 ## Critiques of Growth
 
 | Perspective | Core Claim |
-|--------------------------|----------------------------------------------|
+|----|----|
 | **Anti‑consumerist** | Endless consumption erodes well‑being and virtue. |
 | **Environmental (Degrowth)** | Infinite growth on a finite planet is impossible; prioritize ecology. |
 | **Inequality** | Average growth hides rising gaps; *who* benefits matters. |
@@ -79,8 +79,6 @@ Outliers? Does more money *always* buy longer life?
 
 -   **Green innovation** (cheaper clean energy).
 -   **Inclusive institutions** that spread gains.
-
-
 
 ## Key Take‑Aways
 
@@ -91,6 +89,6 @@ Outliers? Does more money *always* buy longer life?
 
 ## Exit Ticket
 
- *Pick one dividend of economic growth that you think is most important. Pick one drawback you think most important.*
+*Pick one dividend of economic growth that you think is most important. Pick one drawback you think most important.*
 
 Thanks! Questions?
