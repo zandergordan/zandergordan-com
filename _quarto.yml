@@ -17,6 +17,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - music.qmd
       - about.qmd
       - demo.qmd
       - icon: github

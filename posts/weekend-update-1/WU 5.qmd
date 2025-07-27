@@ -1,0 +1,46 @@
+---
+title: "Weekend Update #5"
+author: "Zander Gordan"
+date: "2025-07-27"
+categories: [life, music]
+---
+
+I had a wonderful 30th birthday party yesterday, thank you to all who attended, and to those who were unable to make it I hope to see you soon.
+
+I do not necessarily feel much older. I am however very much looking forward to the future: in case anyone had not yet heard, I am joining the economics faculty at Georgia College.
+
+I have released some music lately, I put it on streaming but I think going forward I will just have it here on the website.
+
+```{=html}
+  <style>
+    .player {
+      max-width: 400px;
+      border: 1px solid #ccc;
+      padding: 16px;
+      border-radius: 10px;
+      font-family: sans-serif;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+    .cover {
+      width: 100%;
+      border-radius: 8px;
+    }
+    .title {
+      margin: 10px 0 5px;
+      font-size: 1.2em;
+      font-weight: bold;
+    }
+    audio {
+      width: 100%;
+      margin-top: 10px;
+    }
+  </style>
+<div class="player">
+  <img class="cover" src="https://s3.us-east-1.amazonaws.com/zandergordan.com/music/monstera+plant.png" alt="Cover Art">
+  <div class="title">God It's Hard To Look This Good</div>
+  <audio controls preload="metadata">
+    <source src="https://s3.us-east-1.amazonaws.com/zandergordan.com/music/god+its+hard+to+look+this+good+2025-07-18+1614.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+```

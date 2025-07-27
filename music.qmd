@@ -1,0 +1,93 @@
+---
+title: "Music"
+---
+
+```{=html}
+<style>
+    body { font-family: sans-serif; background: #fafafa; padding: 20px; }
+    .player { max-width: 500px; margin: auto; background: #fff; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+    .cover { width: 100%; border-radius: 10px; margin-bottom: 10px; }
+    .title { font-size: 1.2em; margin: 10px 0; font-weight: bold; }
+    .playlist {
+  max-height: 200px; /* Adjust as needed */
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding-left: 0;
+  list-style: none;
+  margin: 10px 0 0 0;
+}
+    .playlist li { cursor: pointer; padding: 6px; border-bottom: 1px solid #eee; }
+    .playlist li:hover { background: #f0f0f0; }
+    .playlist li.active { font-weight: bold; color: #007acc; }
+    audio { width: 100%; margin-top: 10px; }
+  </style>
+  
+
+<div class="player">
+  <img id="cover" class="cover" src="" alt="Cover Art">
+  <div id="track-title" class="title">Loading...</div>
+  <audio id="audio" controls preload="metadata"></audio>
+  <ul id="playlist" class="playlist"></ul>
+</div>
+
+<script>
+  const tracks = [
+    {
+      title: "God It's Hard To Look This Good",
+      file: "https://s3.us-east-1.amazonaws.com/zandergordan.com/music/god+its+hard+to+look+this+good+2025-07-18+1614.wav",
+      cover: "https://s3.us-east-1.amazonaws.com/zandergordan.com/music/monstera+plant.png"
+    },
+    {
+      title: "And God Saw There Were Heretics and That It Was Good",
+      file: "https://s3.us-east-1.amazonaws.com/zandergordan.com/music/and+god+saw+there+were+heretics+and+that+it+was+good+2024-12-17+1358.mp3",
+      cover: "https://s3.us-east-1.amazonaws.com/zandergordan.com/music/ghosts+on+strike.jpg"
+    },
+    {
+      title: "Ghosts Redux",
+      file: "https://s3.us-east-1.amazonaws.com/zandergordan.com/music/ghosts+redux+2025-02-01+1300.mp3",
+      cover: "https://s3.us-east-1.amazonaws.com/zandergordan.com/music/ghosts+on+strike.jpg"
+    },
+   {
+      title: "Sorry Babe But I Just Can't Dance To This Chord Progression",
+      file: "https://s3.us-east-1.amazonaws.com/zandergordan.com/music/sorry+babe+but+i+just+cant+dance+to+this+chord+progression.mp3",
+      cover: "https://s3.us-east-1.amazonaws.com/zandergordan.com/music/sorry+babe+i+just+cant+dance+to+this+chord+progression.png"
+    }
+  ];
+
+  const audio = document.getElementById("audio");
+  const title = document.getElementById("track-title");
+  const cover = document.getElementById("cover");
+  const playlistEl = document.getElementById("playlist");
+
+  let currentTrack = 0;
+
+  function loadTrack(index) {
+    const track = tracks[index];
+    audio.src = track.file;
+    title.textContent = track.title;
+    cover.src = track.cover;
+    document.querySelectorAll('.playlist li').forEach(li => li.classList.remove('active'));
+    playlistEl.children[index].classList.add('active');
+    playlistEl.children[index].scrollIntoView({ behavior: "smooth", block: "nearest" });
+    audio.play();
+  }
+
+  tracks.forEach((track, i) => {
+    const li = document.createElement("li");
+    li.textContent = track.title;
+    li.addEventListener("click", () => {
+      currentTrack = i;
+      loadTrack(i);
+    });
+    playlistEl.appendChild(li);
+  });
+
+  audio.addEventListener("ended", () => {
+    currentTrack = (currentTrack + 1) % tracks.length;
+    loadTrack(currentTrack);
+  });
+
+  loadTrack(0);
+</script>
+```
