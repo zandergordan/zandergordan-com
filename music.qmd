@@ -2,7 +2,7 @@
 title: "Music"
 ---
 
-# Modular improv weeknights @ 9
+# Techno improv weeknights @ 9
 
 ```{=html}
     <!-- Add a placeholder for the Twitch embed -->
