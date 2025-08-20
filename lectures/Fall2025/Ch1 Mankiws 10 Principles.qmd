@@ -1,0 +1,110 @@
+---
+title: "Chapter 1"
+subtitle: "Mankiw's 10 Principles of Economics"
+author: "Zander Gordan"
+format: revealjs
+---
+
+## Welcome
+
+**What is economics?**
+
+::: fragment
+**Mankiw's definition:** The study of how society manages its scarce resources.
+
+**Mine:** Economics is what economists do (Jacob Viner)
+:::
+
+## Principle 1
+
+**People Face Trade-offs**
+
+-   “There’s no such thing as a free lunch.”
+
+-   Choosing one thing means giving up something else.
+
+## Principle 2
+
+**The Cost of Something Is What You Give Up to Get It**
+
+-   Opportunity cost is central.
+
+-   Includes both explicit and implicit costs.
+
+## Principle 3
+
+**Rational People Think at the Margin**
+
+-   "Rational people systematically and purposefully do the best they can to achieve their goals"
+
+    -   Note that economists are generally concerned with fixed goals
+
+<!-- -->
+
+-   Decisions are made by comparing marginal benefits and marginal costs.
+
+-   Example: deciding whether to study one more hour.
+
+## Principle 4
+
+**People Respond to Incentives**
+
+-   Behavior changes when costs or benefits change.
+
+-   Policies must account for incentives.
+
+## Principle 5
+
+**Trade Can Make Everyone Better Off**
+
+-   Specialization and exchange increase overall welfare.
+
+    -   “The division of labor is limited by the extent of the market.” - Smith
+
+-   Applies to individuals, firms, and nations.
+
+## Principle 6
+
+**Markets Are Usually a Good Way to Organize Economic Activity**
+
+-   “Invisible hand” of prices guides resources to efficient uses.
+
+    -   "Prices are a signal wrapped in an incentive" - Tabarrok and Cowen, paraphrasing Hayek
+
+-   Decentralized decision-making often outperforms central planning.
+
+## Principle 7
+
+**Governments Can Sometimes Improve Market Outcomes**
+
+-   Enforce property rights.
+
+-   Address market failures (e.g., externalities, monopoly).
+
+-   Promote equity alongside efficiency.
+
+## Principle 8
+
+**A Country’s Standard of Living Depends on Its Ability to Produce Goods & Services**
+
+-   Productivity is the key driver of long-run growth.
+
+-   Human capital, technology, and institutions matter.
+
+## Principle 9
+
+**Prices Rise When the Government Prints Too Much Money**
+
+-   Inflation is linked to excessive money supply growth.
+
+-   Historical cases: hyperinflation episodes. See Zimbabwe '08, Argentina '89, Weimar Germany
+
+## Principle 10
+
+**Society Faces a Short-Run Trade-off Between Inflation and Unemployment**
+
+-   The Phillips Curve (short run).
+
+-   Policies can reduce unemployment temporarily at the cost of higher inflation.
+
+## 
