@@ -1,11 +1,5 @@
 ---
-title: "Teaching Demo"
+title: "Teaching"
 ---
 
-<div>
-
-```{=html}
-<iframe class="slide-deck" src="teaching_demo.html" width="100%" height="500"></iframe>
-```
-
-</div>
+[Ch 1](https://zandergordan.com/lectures/Fall2025/Ch1%20Mankiws%2010%20Principles.html)
