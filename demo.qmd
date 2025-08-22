@@ -3,3 +3,5 @@ title: "Teaching"
 ---
 
 [Ch 1](https://zandergordan.com/lectures/Fall2025/Ch1%20Mankiws%2010%20Principles.html)
+
+[Ch 2](https://www.zandergordan.com/lectures/Fall2025/Ch%202%20Thinking%20Like%20an%20Economist.html)

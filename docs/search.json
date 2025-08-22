@@ -368,6 +368,118 @@
     "href": "demo.html",
     "title": "Teaching",
     "section": "",
-    "text": "Ch 1"
+    "text": "Ch 1\nCh 2"
+  },
+  {
+    "objectID": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#in-this-chapter",
+    "href": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#in-this-chapter",
+    "title": "Chapter 2",
+    "section": "In This Chapter",
+    "text": "In This Chapter\n\nWhat are economists’ two roles? How do they differ?\n\nWhat are models? How do economists use them?\n\nWhat are the elements of the Circular-Flow Diagram? What concepts does the diagram illustrate?\n\nHow is the Production Possibilities Frontier related to opportunity cost? What other concepts does it illustrate?\n\nWhat is the difference between microeconomics and macroeconomics?\n\nWhat is the difference between positive and normative statements?"
+  },
+  {
+    "objectID": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#intro",
+    "href": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#intro",
+    "title": "Chapter 2",
+    "section": "Intro",
+    "text": "Intro\n\nWhat are economists’ two roles? How do they differ?\n\nWhat are models? How do economists use them?\n\nWhat are the elements of the Circular-Flow Diagram? What concepts does the diagram illustrate?\n\nHow is the Production Possibilities Frontier related to opportunity cost? What other concepts does it illustrate?\n\nWhat is the difference between microeconomics and macroeconomics?\n\nWhat is the difference between positive and normative statements?"
+  },
+  {
+    "objectID": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#the-economist-as-a-scientist-1",
+    "href": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#the-economist-as-a-scientist-1",
+    "title": "Chapter 2",
+    "section": "The Economist as a Scientist – 1",
+    "text": "The Economist as a Scientist – 1\n\nEconomists play two roles:\n\nScientists: try to explain the world\n\nPolicy advisers: try to improve it\n\n\nAs scientists, economists employ the scientific method:\n\nDispassionate development and testing of theories\n\nDevise theories, collect data, and analyze data to verify or refute theories"
+  },
+  {
+    "objectID": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#the-economist-as-a-scientist-2",
+    "href": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#the-economist-as-a-scientist-2",
+    "title": "Chapter 2",
+    "section": "The Economist as a Scientist – 2",
+    "text": "The Economist as a Scientist – 2\n\nScientific method in economics:\n\nObservation → collect and analyze data\n\nDevelop a theory based on observed data\n\nMore observation → evaluate the theory\n\n\nCannot use lab experiments → rely on natural experiments offered by history"
+  },
+  {
+    "objectID": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#the-economist-as-a-scientist-3",
+    "href": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#the-economist-as-a-scientist-3",
+    "title": "Chapter 2",
+    "section": "The Economist as a Scientist – 3",
+    "text": "The Economist as a Scientist – 3\n\nEconomists make assumptions\n\nSimplify the complex world\n\n\nEconomists use models\n\nBuilt with assumptions\n\nOmit many details → focus on essentials\n\nAll models are subject to revision"
+  },
+  {
+    "objectID": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#the-circular-flow-diagram",
+    "href": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#the-circular-flow-diagram",
+    "title": "Chapter 2",
+    "section": "The Circular-Flow Diagram",
+    "text": "The Circular-Flow Diagram\n\nVisual model of the economy\n\nShows how dollars flow through markets among households and firms\n\nTwo decision makers:\n\nHouseholds\n\nFirms\n\n\nInteract in two markets:\n\nMarket for goods & services\n\nMarket for factors of production"
+  },
+  {
+    "objectID": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#the-circular-flow-diagram-1",
+    "href": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#the-circular-flow-diagram-1",
+    "title": "Chapter 2",
+    "section": "The Circular-Flow Diagram",
+    "text": "The Circular-Flow Diagram"
+  },
+  {
+    "objectID": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#the-production-possibilities-frontier-ppf",
+    "href": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#the-production-possibilities-frontier-ppf",
+    "title": "Chapter 2",
+    "section": "The Production Possibilities Frontier (PPF)",
+    "text": "The Production Possibilities Frontier (PPF)\n\nGraph showing combinations of outputs an economy can produce\n\nGiven:\n\nAvailable factors of production\n\nAvailable technology"
+  },
+  {
+    "objectID": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#the-ppf---linear",
+    "href": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#the-ppf---linear",
+    "title": "Chapter 2",
+    "section": "The PPF - linear",
+    "text": "The PPF - linear"
+  },
+  {
+    "objectID": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#the-ppf---bowed-outwards-increasing-oc",
+    "href": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#the-ppf---bowed-outwards-increasing-oc",
+    "title": "Chapter 2",
+    "section": "The PPF - bowed outwards (increasing OC)",
+    "text": "The PPF - bowed outwards (increasing OC)\n\n\n\nAreas of the PPF\n\nEfficient: points on the PPF\n\nInefficient: points inside the PPF\n\nNot feasible: points outside the PPF"
+  },
+  {
+    "objectID": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#microeconomics-vs.-macroeconomics",
+    "href": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#microeconomics-vs.-macroeconomics",
+    "title": "Chapter 2",
+    "section": "Microeconomics vs. Macroeconomics",
+    "text": "Microeconomics vs. Macroeconomics\n\nMicroeconomics: decisions of households & firms; interaction in markets\n\nMacroeconomics: economy-wide phenomena (inflation, unemployment, growth)"
+  },
+  {
+    "objectID": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#the-economist-as-policy-adviser",
+    "href": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#the-economist-as-policy-adviser",
+    "title": "Chapter 2",
+    "section": "The Economist as Policy Adviser",
+    "text": "The Economist as Policy Adviser\n\nEconomists as scientists: explain events (positive statements)\n\nEconomists as advisers: recommend policies (normative statements)"
+  },
+  {
+    "objectID": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#why-economists-disagree",
+    "href": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#why-economists-disagree",
+    "title": "Chapter 2",
+    "section": "Why Economists Disagree",
+    "text": "Why Economists Disagree\n\nConflicting theories\n\nDifferent value judgments\n\nYet, many propositions most economists agree on"
+  },
+  {
+    "objectID": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#summary",
+    "href": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#summary",
+    "title": "Chapter 2",
+    "section": "Summary",
+    "text": "Summary\n\nEconomists as scientists → assumptions & models (e.g., PPF, circular flow)\n\nMicro = individual decision-making; Macro = whole economy\n\nPositive = descriptive, Normative = prescriptive\n\nEconomists may disagree (judgments, values)\n\nPolicymakers may ignore advice due to politics"
+  },
+  {
+    "objectID": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#positive-vs.-normative",
+    "href": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#positive-vs.-normative",
+    "title": "Chapter 2",
+    "section": "Positive vs. Normative",
+    "text": "Positive vs. Normative\n\nPositive statements: descriptive, testable\n\n“Minimum-wage laws cause unemployment.”\n\n\nNormative statements: prescriptive, value-based\n\n“The government should raise the minimum wage.”"
+  },
+  {
+    "objectID": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#propositions-economists-agree-on",
+    "href": "lectures/Fall2025/Ch 2 Thinking Like an Economist.html#propositions-economists-agree-on",
+    "title": "Chapter 2",
+    "section": "Propositions Economists Agree On",
+    "text": "Propositions Economists Agree On\n\nRent ceilings reduce housing availability (93%)\n\nTariffs & quotas reduce welfare (93%)\n\nUS should not restrict outsourcing (90%)\n\nEliminate farm subsidies (85%)\n\nEliminate sports franchise subsidies (85%)\n\nCash &gt; in-kind transfers (84%)\n\nLarge deficits harm economy (83%)\n\nDon’t ban GM crops (82%)\n\nMinimum wage increases unemployment (79%)\n\nReduce ethanol subsidies (78%)"
   }
 ]
