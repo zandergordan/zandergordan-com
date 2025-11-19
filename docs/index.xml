@@ -10,7 +10,61 @@
 <atom:link href="https://www.zandergordan.com/index.xml" rel="self" type="application/rss+xml"/>
 <description>Zander Gordan&#39;s personal blog</description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Sun, 27 Jul 2025 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 18 Nov 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Forays into Classical</title>
+  <dc:creator>Zander Gordan</dc:creator>
+  <link>https://www.zandergordan.com/posts/bach partita no 2.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>As the Fall semester has progressed, I have found myself making more time for music, and taking my music in new and unexpected directions. Below I am sharing one of my favorite recent experiments, which involves Bach’s second violin Partita being voiced by a Bitwig Grid patch with some heavily modulated wavetable synthesis and delay effects. I really like the rhythmic effect achieved by the system of interlocked and cross-modulated tempo-synced LFO’s that are present in this patch. The delay lines give everything some bounce.</p>
+<p>As I engage in these experiments, I do have the recurring thought that I am doing something sacrilegious, but I am simply having too much fun to stop. Using MIDI sequences from classical music gives me strong source material to build patches around. It also liberates me from having to think about crafting a linear structure, which seems to be anathema to me. I do find that there are some moments in the music I am producing where the effects created by my patches are clashing with the progression of the composition I am using, but I am too overjoyed by the other moments where the patch and the composition complement one another to worry about the imperfections at this juncture.</p>
+<p>I have also experimented with adding layers of percussion to this music, and that does not feel good to me at all, but adding rhythmic elements through tempo-synced modulation is very nice.</p>
+<p>I will share more in the near future, and I hope more generally to revive the blog.</p>
+  <style>
+    .player {
+      max-width: 400px;
+      border: 1px solid #ccc;
+      padding: 16px;
+      border-radius: 10px;
+      font-family: sans-serif;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+    .cover {
+      width: 100%;
+      border-radius: 8px;
+    }
+    .title {
+      margin: 10px 0 5px;
+      font-size: 1.2em;
+      font-weight: bold;
+    }
+    audio {
+      width: 100%;
+      margin-top: 10px;
+    }
+  </style>
+<div class="player">
+  <img class="cover" src="https://s3.us-east-1.amazonaws.com/zandergordan.com/music/sorry+babe+i+just+cant+dance+to+this+chord+progression.png" alt="Cover Art">
+  <div class="title">Bach Partita No.2 (Glass mix)</div>
+  <audio controls="" preload="metadata">
+    <source src="https://s3.us-east-1.amazonaws.com/zandergordan.com/music/partita+2+glasses.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+
+
+
+ ]]></description>
+  <category>life</category>
+  <category>music</category>
+  <guid>https://www.zandergordan.com/posts/bach partita no 2.html</guid>
+  <pubDate>Tue, 18 Nov 2025 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Weekend Update #5</title>
   <dc:creator>Zander Gordan</dc:creator>
@@ -780,32 +834,6 @@ font-style: inherit;">ggplotly</span>(p)</span></code></pre></div>
   <category>AOTY</category>
   <guid>https://www.zandergordan.com/posts/music-2023/music-2023.html</guid>
   <pubDate>Sun, 24 Dec 2023 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>New Florida Parks Resident Preference Policy</title>
-  <dc:creator>Zander Gordan</dc:creator>
-  <link>https://www.zandergordan.com/posts/florida-parks-resident-preference/parks-preference.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>I recently received an email from the Florida Department of Environmental Protection informing me that “Effective Jan.&nbsp;1, 2024, at noon Eastern time, only Florida residents may make reservations for cabins and RV, tent, boat and equestrian campsites 11 months in advance. Non-Florida residents will be able to make reservations 10 months in advance.”</p>
-<p>This is the result of <a href="https://www.myfloridahouse.gov/Sections/Bills/billsdetail.aspx?BillId=76845&amp;SessionId=99#:~:text=CS%2FHB%20109%20%2D%20State%20Park%20Campsite%20Reservations&amp;text=State%20Park%20Campsite%20Reservations%3A%20Requires,specified%20information%20for%20advance%20reservations.">Florida 2023 HB 109</a>, signed into law back in May. I am not clear on whether I think this is a good or bad development. Selfishly speaking, it will make it slightly easier for me to get a booking at certain campsites, though I have not actually made such a booking since January 2022. On the other hand, I worry it may hurt our tourism industry. Thinking ahead, I also wonder whether similar laws being passed in other states could lead us to an unfortunate equilibrium where the best campsites in America are all for the exclusive use of in-state residents.</p>
-<p>Regarding tourism impacts, I think it is worth noting that there has been some serious neglect in how this bill was handled in the state legislature: potential tourism impacts were declared to be essentially 0. In the legislature, bills undergo staff review, including an economic impact section, if you look at the links under the “staff analysis” section of the previous link, you can see that in 8 separate versions of the analysis of this bill, all declared that the impact of this bill on state and local government revenues would be none.</p>
-<p>Let me say it is not obvious a priori whether this law would lead to a reduction or increase in sales tax revenues. That depends on a number of parameters, such as whether in-state residents or tourists tend to spend more on a given campsite trip, and whether tourists who are locked out of their preferred campsite due to the new rules subsequently cancel their trip entirely, or if they simply substitute to a different kind of trip, and if so how much money they spend on that substitute trip compared to their first choice trip. With those caveats in mind, and armed with 0 data on the question, let me say that my intuition is strongly that tourists tend to spend more than in-state residents, and that the new law will lead to a substantial reduction in tourist trips and consequently state sales tax revenues.</p>
-<p>The fact that there is no amount of thought dedicated to this question in the official analysis of the law, and that the law still passed unanimously in both chambers, signals to me that in some cases the neurons simply are not firing in Tallahassee.</p>
-
-
-
- ]]></description>
-  <category>outdoors</category>
-  <category>economics</category>
-  <category>policy</category>
-  <category>florida</category>
-  <guid>https://www.zandergordan.com/posts/florida-parks-resident-preference/parks-preference.html</guid>
-  <pubDate>Sun, 17 Dec 2023 05:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -1,0 +1,48 @@
+---
+title: "Forays into Classical"
+author: "Zander Gordan"
+date: "2025-11-18"
+categories: [life, music]
+---
+
+As the Fall semester has progressed, I have found myself making more time for music, and taking my music in new and unexpected directions. Below I am sharing one of my favorite recent experiments, which involves Bach's second violin Partita being voiced by a Bitwig Grid patch with some heavily modulated wavetable synthesis and delay effects. I really like the rhythmic effect achieved by the system of interlocked and cross-modulated tempo-synced LFO's that are present in this patch. The delay lines give everything some bounce.
+
+As I engage in these experiments, I do have the recurring thought that I am doing something sacrilegious, but I am simply having too much fun to stop. Using MIDI sequences from classical music gives me strong source material to build patches around. It also liberates me from having to think about crafting a linear structure, which seems to be anathema to me. I do find that there are some moments in the music I am producing where the effects created by my patches are clashing with the progression of the composition I am using, but I am too overjoyed by the other moments where the patch and the composition complement one another to worry about the imperfections at this juncture.
+
+I have also experimented with adding layers of percussion to this music, and that does not feel good to me at all, but adding rhythmic elements through tempo-synced modulation is very nice.
+
+I will share more in the near future, and I hope more generally to revive the blog.
+
+```{=html}
+  <style>
+    .player {
+      max-width: 400px;
+      border: 1px solid #ccc;
+      padding: 16px;
+      border-radius: 10px;
+      font-family: sans-serif;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+    .cover {
+      width: 100%;
+      border-radius: 8px;
+    }
+    .title {
+      margin: 10px 0 5px;
+      font-size: 1.2em;
+      font-weight: bold;
+    }
+    audio {
+      width: 100%;
+      margin-top: 10px;
+    }
+  </style>
+<div class="player">
+  <img class="cover" src="https://s3.us-east-1.amazonaws.com/zandergordan.com/music/sorry+babe+i+just+cant+dance+to+this+chord+progression.png" alt="Cover Art">
+  <div class="title">Bach Partita No.2 (Glass mix)</div>
+  <audio controls preload="metadata">
+    <source src="https://s3.us-east-1.amazonaws.com/zandergordan.com/music/partita+2+glasses.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+```
