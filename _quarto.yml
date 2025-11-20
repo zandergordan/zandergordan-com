@@ -13,6 +13,8 @@ website:
   google-analytics: 
     tracking-id: "G-PNM0RM754C"
     anonymize-ip: false
+  comments:
+    hypothesis: true
     
   navbar:
     left:
