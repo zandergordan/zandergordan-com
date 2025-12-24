@@ -5,21 +5,11 @@ date: "2025-12-23"
 categories: [life, music]
 ---
 
-I am experimenting with getting RNBO running on my website.
+I am experimenting with getting RNBO running on my website. It is a work in progress, but there is sound! You can click on the numbers where it says MIDI keyboard.
 
 ```{=html}
-<iframe>
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="theme-color" content="#000000">
-    <meta name="rnbo-version" content="1.0.0-alpha.5">
-    <link rel="stylesheet" href="style/style.css">
-    <title>RNBO Web Export</title>
-</head>
-
-<body>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
+<div>
+  <noscript>You need to enable JavaScript to run this app.</noscript>
     <svg id="background" width="100%" height="100%"></svg>
     <div id="rnbo-root">
 		<div>
@@ -70,6 +60,5 @@ I am experimenting with getting RNBO running on my website.
     <!-- Import RNBO Engine Wrapper -->
     <!-- Make sure to include the RNBO engine version to the version of your exported code, found in rnbopackage.json -->
     <script type="text/javascript" src="js/app.js"></script>
-</body>
-</iframe>
+    </div>
 ```
