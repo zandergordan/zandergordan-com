@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Zander Gordan">
-<meta name="dcterms.date" content="2025-07-27">
+<meta name="dcterms.date" content="2026-01-23">
 
-<title>Weekend Update #5 – Zander Gordan</title>
+<title>RNBO Tests – Zander Gordan</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -87,10 +87,10 @@ gtag('config', 'G-PNM0RM754C', { 'anonymize_ip': false});
 
 
 <link rel="stylesheet" href="../../styles.css">
-<meta property="og:title" content="Weekend Update #5 – Zander Gordan">
+<meta property="og:title" content="RNBO Tests – Zander Gordan">
 <meta property="og:description" content="Zander Gordan’s personal blog">
 <meta property="og:site_name" content="Zander Gordan">
-<meta name="twitter:title" content="Weekend Update #5 – Zander Gordan">
+<meta name="twitter:title" content="RNBO Tests – Zander Gordan">
 <meta name="twitter:description" content="Zander Gordan’s personal blog">
 <meta name="twitter:card" content="summary">
 </head>
@@ -149,7 +149,7 @@ gtag('config', 'G-PNM0RM754C', { 'anonymize_ip': false});
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Weekend Update #5</h1>
+      <h1 class="title">RNBO Tests</h1>
                                 <div class="quarto-categories">
                 <div class="quarto-category">life</div>
                 <div class="quarto-category">music</div>
@@ -170,7 +170,7 @@ gtag('config', 'G-PNM0RM754C', { 'anonymize_ip': false});
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">July 27, 2025</p>
+        <p class="date">January 23, 2026</p>
       </div>
     </div>
     
@@ -1072,40 +1072,60 @@ gtag('config', 'G-PNM0RM754C', { 'anonymize_ip': false});
 
 
 
-<p>I had a wonderful 30th birthday party yesterday, thank you to all who attended, and to those who were unable to make it I hope to see you soon.</p>
-<p>I do not necessarily feel much older. I am however very much looking forward to the future: in case anyone had not yet heard, I am joining the economics faculty at Georgia College.</p>
-<p>I have released some music lately, I put it on streaming but I think going forward I will just have it here on the website.</p>
-  <style>
-    .player {
-      max-width: 400px;
-      border: 1px solid #ccc;
-      padding: 16px;
-      border-radius: 10px;
-      font-family: sans-serif;
-      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-    }
-    .cover {
-      width: 100%;
-      border-radius: 8px;
-    }
-    .title {
-      margin: 10px 0 5px;
-      font-size: 1.2em;
-      font-weight: bold;
-    }
-    audio {
-      width: 100%;
-      margin-top: 10px;
-    }
-  </style>
-<div class="player">
-  <img class="cover" src="https://s3.us-east-1.amazonaws.com/zandergordan.com/music/monstera+plant.png" alt="Cover Art">
-  <div class="title">God It's Hard To Look This Good</div>
-  <audio controls="" preload="metadata">
-    <source src="https://s3.us-east-1.amazonaws.com/zandergordan.com/music/god+its+hard+to+look+this+good+2025-07-18+1614.wav" type="audio/mpeg">
-    Your browser does not support the audio element.
-  </audio>
-</div>
+<p>I am experimenting with getting RNBO running on my website.</p>
+<div>
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+    <svg id="background" width="100%" height="100%"></svg>
+    <div id="rnbo-root">
+        <div>
+            <h1 id="patcher-title">Unnamed patcher</h1>
+        </div>
+        <div id="rnbo-clickable-keyboard">
+            <h2 class="anchored">MIDI Keyboard</h2>
+            <em id="no-midi-label">No MIDI input</em>
+        </div>
+        <div id="rnbo-inports">
+            <h2 class="anchored">Inports</h2>
+            <em id="no-inports-label">No inports available</em>
+            <form id="inport-form" classname="inport">
+                <div classname="inport-input">
+                    <select id="inport-select"></select>
+                    <input id="inport-text" type="text">
+                    <input id="inport-submit" classname="smallButton" type="submit" value="Send">
+                </div>
+            </form>
+        </div>
+        <div id="rnbo-console">
+            <h2 class="anchored">Outports</h2>
+            <em id="no-outports-label">No outports available</em>
+            <div id="rnbo-console-div">
+                <p id="rnbo-console-readout">Waiting for messages...</p>
+                <em id="rnbo-console-description">Check the developer console for more messages from the RNBO device</em>
+            </div>
+        </div>
+        <div id="rnbo-presets">
+            <h2 class="anchored">Presets</h2>
+            <em id="no-presets-label">No presets defined</em>
+            <select id="preset-select"></select>
+        </div>
+        <div id="rnbo-parameter-sliders">
+            <h2 class="anchored">Parameters</h2>
+            <em id="no-param-label">No parameters</em>
+        </div>
+    </div>
+
+    <!-- Load the script that creates the RNBO device  -->
+    <!-- Uncomment if you know the version of your exported RNBO patch to avoid dynamic loading -->
+    <!-- <script type="text/javascript" src="https://cdn.cycling74.com/rnbo/latest/rnbo.min.js"></script> -->
+
+    <!-- (Optional) The guardrails.js script isn't required for RNBO to work, and you can skip including it -->
+    <!-- It simply offers some helpful error messages for common problems -->
+    <script type="text/javascript" src="js/guardrails.js"></script>
+
+    <!-- Import RNBO Engine Wrapper -->
+    <!-- Make sure to include the RNBO engine version to the version of your exported code, found in rnbopackage.json -->
+    <script type="text/javascript" src="js/app.js"></script>
+    </div>
 
 
 
