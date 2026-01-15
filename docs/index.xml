@@ -9,8 +9,29 @@
 <link>https://www.zandergordan.com/</link>
 <atom:link href="https://www.zandergordan.com/index.xml" rel="self" type="application/rss+xml"/>
 <description>Zander Gordan&#39;s personal blog</description>
-<generator>quarto-1.5.57</generator>
-<lastBuildDate>Tue, 23 Dec 2025 05:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Wed, 14 Jan 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Wednesdays #1</title>
+  <dc:creator>Zander Gordan</dc:creator>
+  <link>https://www.zandergordan.com/posts/wednesdays/wed1.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Today’s post is intended as a first in a weekly series on the topic of wisdom, done on Wednesdays due to the etymological connection with Woden/Odin. I read the first few chapters of <a href="https://www.goodreads.com/work/quotes/1582074-the-wisdom-of-no-escape-and-the-path-of-loving-kindness">The Wisdom of No Escape</a> earlier today, which I had been meaning to get around to for some while. The part which sounded especially appealing was as follows “Meditation practice isn’t about trying to throw ourselves away and become something better. It’s about befriending who we are already.” Though I still don’t know if I am ready to commit to a serious meditation practice, I am having enough trouble keeping up with an exercise routine.</p>
+<p>Even without meditation, there is something to be gleaned from the book, so I thought I would pass it along with my recommendation. Probably it will warrant a re-read to more fully integrate the ideas, but it is a very accessible entry point for Buddhist thinking, at least to me.</p>
+
+
+
+ ]]></description>
+  <category>life</category>
+  <category>religion</category>
+  <guid>https://www.zandergordan.com/posts/wednesdays/wed1.html</guid>
+  <pubDate>Wed, 14 Jan 2026 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>RNBO Tests</title>
   <dc:creator>Zander Gordan</dc:creator>
@@ -423,9 +444,9 @@
 
 <p>The 2024 MLB season is almost underway, and oddsmakers have set their predictions for the season.</p>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="fu" style="color: #4758AB;
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="fu" style="color: #4758AB;
 background-color: null;
-font-style: inherit;">library</span>(tidyverse)</span></code></pre></div>
+font-style: inherit;">library</span>(tidyverse)</span></code></pre></div></div>
 <div class="cell-output cell-output-stderr">
 <pre><code>── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
 ✔ dplyr     1.1.4     ✔ readr     2.1.4
@@ -438,13 +459,13 @@ font-style: inherit;">library</span>(tidyverse)</span></code></pre></div>
 ✖ dplyr::lag()    masks stats::lag()
 ℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors</code></pre>
 </div>
-<div class="sourceCode cell-code" id="cb3" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1">df <span class="ot" style="color: #003B4F;
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1">df <span class="ot" style="color: #003B4F;
 background-color: null;
 font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">read_csv</span>(<span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"2024seasonOdds.csv"</span>)</span></code></pre></div>
+font-style: inherit;">"2024seasonOdds.csv"</span>)</span></code></pre></div></div>
 <div class="cell-output cell-output-stderr">
 <pre><code>Warning: One or more parsing issues, call `problems()` on your data frame for details,
 e.g.:
@@ -462,7 +483,7 @@ num (1): OddsWS
 ℹ Use `spec()` to retrieve the full column specification for this data.
 ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.</code></pre>
 </div>
-<div class="sourceCode cell-code" id="cb6" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1">df</span></code></pre></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb6" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1">df</span></code></pre></div></div>
 <div class="cell-output cell-output-stdout">
 <pre><code># A tibble: 30 × 3
    team      Ewins OddsWS
@@ -482,7 +503,7 @@ num (1): OddsWS
 </div>
 <p>I have collected the odds from Fanduel on each MLB team’s over/under for total regular season wins, and the odds of the team winning the world series. How do these correlate?</p>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb8" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1">df <span class="sc" style="color: #5E5E5E;
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb8" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1">df <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">%&gt;%</span> </span>
 <span id="cb8-2">  <span class="fu" style="color: #4758AB;
@@ -502,7 +523,7 @@ font-style: inherit;">geom_point</span>() <span class="sc" style="color: #5E5E5E
 background-color: null;
 font-style: inherit;">+</span> <span class="fu" style="color: #4758AB;
 background-color: null;
-font-style: inherit;">scale_y_log10</span>()</span></code></pre></div>
+font-style: inherit;">scale_y_log10</span>()</span></code></pre></div></div>
 <div class="cell-output-display">
 <div>
 <figure class="figure">
@@ -514,9 +535,9 @@ font-style: inherit;">scale_y_log10</span>()</span></code></pre></div>
 <p>It seems that there is pretty much a log-linear inverse relationship between expected win total (technically an over under is not the same thing as an expected value, but I will use the terms interchangeably) and your winnings from betting the team to win the world series. Notably, for the worst teams, you do not win as much for betting on them as you might expect, no doubt the oddsmakers want to limit their potential downside from those who are attracted to the most outrageous bets.</p>
 <p>I think it may be useful also to convert the odds to break-even win probabilities:</p>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb9" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb9-1"><span class="fu" style="color: #4758AB;
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb9" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb9-1"><span class="fu" style="color: #4758AB;
 background-color: null;
-font-style: inherit;">library</span>(plotly)</span></code></pre></div>
+font-style: inherit;">library</span>(plotly)</span></code></pre></div></div>
 <div class="cell-output cell-output-stderr">
 <pre><code>
 Attaching package: 'plotly'</code></pre>
@@ -536,7 +557,7 @@ Attaching package: 'plotly'</code></pre>
 
     layout</code></pre>
 </div>
-<div class="sourceCode cell-code" id="cb14" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb14-1">df <span class="ot" style="color: #003B4F;
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb14" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb14-1">df <span class="ot" style="color: #003B4F;
 background-color: null;
 font-style: inherit;">&lt;-</span> df <span class="sc" style="color: #5E5E5E;
 background-color: null;
@@ -591,7 +612,7 @@ font-style: inherit;">scale_y_log10</span>() </span>
 <span id="cb14-9"></span>
 <span id="cb14-10"><span class="fu" style="color: #4758AB;
 background-color: null;
-font-style: inherit;">ggplotly</span>(p)</span></code></pre></div>
+font-style: inherit;">ggplotly</span>(p)</span></code></pre></div></div>
 <div class="cell-output-display">
 <div class="plotly html-widget html-fill-item" id="htmlwidget-b3e728e88f3a64cf471f" style="width:100%;height:464px;"></div>
 <script type="application/json" data-for="htmlwidget-b3e728e88f3a64cf471f">{"x":{"data":[{"x":[103.5,101.5,93.5,91.5,89.5,89.5,88.5,87.5,87.5,86.5,84.5,84.5,83.5,83.5,83.5,82.5,81.5,80.5,80.5,79.5,77.5,77.5,76.5,75.5,73.5,72.5,66.5,60.5,59.5,57.5],"y":[-0.72784684729779137,-0.8449602463941347,-1.0076875438918345,-1.125786855969829,-1.3087175395558157,-1.280688815955572,-1.280688815955572,-1.4268168516338102,-1.4470202377220971,-1.3833511578527198,-1.5959592507341636,-1.5959592507341636,-1.7173814136196264,-1.6609000576671782,-1.7947936369284045,-1.8121677329978272,-1.8899273919106578,-1.8121677329978272,-1.9558559056189662,-1.8899273919106578,-2.0636389492209846,-1.8899273919106578,-2.0636389492209846,-2.4077936143203797,-2.2835745041930604,-2.3622761317690752,-2.5042712783809291,-2.5042712783809291,-2.8044352827671366,-2.8044352827671366],"text":["Ewins: 103.5<br />pWS: 0.187134195<br />Dodgers","Ewins: 101.5<br />pWS: 0.142902476<br />Braves","Ewins:  93.5<br />pWS: 0.098245452<br />Astros","Ewins:  91.5<br />pWS: 0.074853678<br />Yankees","Ewins:  89.5<br />pWS: 0.049122726<br />Phillies","Ewins:  89.5<br />pWS: 0.052397575<br />Orioles","Ewins:  88.5<br />pWS: 0.052397575<br />Rangers","Ewins:  87.5<br />pWS: 0.037426839<br />Mariners","Ewins:  87.5<br />pWS: 0.035725619<br />Twins","Ewins:  86.5<br />pWS: 0.041366506<br />Blue Jays","Ewins:  84.5<br />pWS: 0.025353665<br />Rays","Ewins:  84.5<br />pWS: 0.025353665<br />Cardinals","Ewins:  83.5<br />pWS: 0.019169844<br />Diamondbacks","Ewins:  83.5<br />pWS: 0.021832323<br />Cubs","Ewins:  83.5<br />pWS: 0.016040074<br />Padres","Ewins:  82.5<br />pWS: 0.015411051<br />Reds","Ewins:  81.5<br />pWS: 0.012884649<br />Giants","Ewins:  80.5<br />pWS: 0.015411051<br />Mets","Ewins:  80.5<br />pWS: 0.011069910<br />Tigers","Ewins:  79.5<br />pWS: 0.012884649<br />Guardians","Ewins:  77.5<br />pWS: 0.008636963<br />Marlins","Ewins:  77.5<br />pWS: 0.012884649<br />Red Sox","Ewins:  76.5<br />pWS: 0.008636963<br />Brewers","Ewins:  75.5<br />pWS: 0.003910267<br />Pirates","Ewins:  73.5<br />pWS: 0.005205057<br />Royals","Ewins:  72.5<br />pWS: 0.004342340<br />Angels","Ewins:  66.5<br />pWS: 0.003131329<br />Nationals","Ewins:  60.5<br />pWS: 0.003131329<br />White Sox","Ewins:  59.5<br />pWS: 0.001568790<br />Rockies","Ewins:  57.5<br />pWS: 0.001568790<br />Athletics"],"type":"scatter","mode":"markers","marker":{"autocolorscale":false,"color":"rgba(0,0,0,1)","opacity":1,"size":5.6692913385826778,"symbol":"circle","line":{"width":1.8897637795275593,"color":"rgba(0,0,0,1)"}},"hoveron":"points","showlegend":false,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null}],"layout":{"margin":{"t":26.228310502283108,"r":7.3059360730593621,"b":40.182648401826498,"l":54.794520547945211},"plot_bgcolor":"rgba(235,235,235,1)","paper_bgcolor":"rgba(255,255,255,1)","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724},"xaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[55.200000000000003,105.8],"tickmode":"array","ticktext":["60","70","80","90","100"],"tickvals":[60,70,80,90,100],"categoryorder":"array","categoryarray":["60","70","80","90","100"],"nticks":null,"ticks":"outside","tickcolor":"rgba(51,51,51,1)","ticklen":3.6529680365296811,"tickwidth":0.66417600664176002,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(255,255,255,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"y","title":{"text":"Ewins","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"yaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[-2.908264704540604,-0.62401742552432404],"tickmode":"array","ticktext":["0.003","0.010","0.030","0.100"],"tickvals":[-2.5228787452803374,-2,-1.5228787452803376,-1],"categoryorder":"array","categoryarray":["0.003","0.010","0.030","0.100"],"nticks":null,"ticks":"outside","tickcolor":"rgba(51,51,51,1)","ticklen":3.6529680365296811,"tickwidth":0.66417600664176002,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.68949771689498},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(255,255,255,1)","gridwidth":0.66417600664176002,"zeroline":false,"anchor":"x","title":{"text":"pWS","font":{"color":"rgba(0,0,0,1)","family":"","size":14.611872146118724}},"hoverformat":".2f"},"shapes":[{"type":"rect","fillcolor":null,"line":{"color":null,"width":0,"linetype":[]},"yref":"paper","xref":"paper","x0":0,"x1":1,"y0":0,"y1":1}],"showlegend":false,"legend":{"bgcolor":"rgba(255,255,255,1)","bordercolor":"transparent","borderwidth":1.8897637795275593,"font":{"color":"rgba(0,0,0,1)","family":"","size":11.68949771689498}},"hovermode":"closest","barmode":"relative"},"config":{"doubleClick":"reset","modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"source":"A","attrs":{"74c371a2e1da":{"x":{},"y":{},"text":{},"type":"scatter"}},"cur_data":"74c371a2e1da","visdat":{"74c371a2e1da":["function (y) ","x"]},"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
@@ -789,55 +810,6 @@ font-style: inherit;">ggplotly</span>(p)</span></code></pre></div>
   <category>florida</category>
   <guid>https://www.zandergordan.com/posts/weekend-update-1/weekend-update.html</guid>
   <pubDate>Sun, 14 Jan 2024 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Amend Those Teenage Labor Bills</title>
-  <dc:creator>Zander Gordan</dc:creator>
-  <link>https://www.zandergordan.com/posts/teenage-labor/amend-those.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><img src="https://www.zandergordan.com/posts/teenage-labor/ff87b992-6c1b-497b-8584-258990c146ed_550x364.webp" class="img-fluid"></p>
-<p><a href="https://www.myfloridahouse.gov/Sections/Bills/billsdetail.aspx?BillId=78634">Florida HB 49 (2024)</a>&nbsp;should be amended to retain the restrictions on hours of work for 16 and 17 year olds, but clarify and expand the scope for existing exemptions granted by the schools. There should be a simple, objective process by which a high school student on track to graduate (ie 2.0 GPA, passing EOC's, etc.) can get a waiver to work without the hours restrictions, so long as their academic progress continues apace. Furthermore, schools should maintain a registry of students requesting and receiving such waivers, with such registry being shared with the FLDOE and academic partners for research purposes. In this way we can track the outcomes of students working extended hours, and advance the state of knowledge on the effect of teenage labor force participation on long run outcomes.</p>
-<p>HB 49 seeks to change some of the labor laws for teenagers, perhaps most notably by lifting restrictions on the hours of work for 16 and 17 year olds, which according to the staff analysis of the bill (p9)&nbsp;includes the following restrictions:</p>
-<ul>
-<li><p>Before 6:30 a.m. or after 11:00 p.m.</p></li>
-<li><p>More than 8 hours in any one day when school is scheduled the following day.</p></li>
-<li><p>When school is in session, more than 30 hours in any one week.</p></li>
-<li><p>During school hours on any school day, if not enrolled in a career education program.</p></li>
-<li><p>More than 6 consecutive days in any one week.</p></li>
-<li><p>More than 4 hours continuously without an interval of at least 30 minutes for a meal period.</p></li>
-</ul>
-<p>One aspect of these restrictions which I have not seen discussed in the media&nbsp;is the various exemptions to them which already exist under current law. As per the same staff analysis, those exemptions include:</p>
-<ul>
-<li><p>Minors 16 and 17 years-of-age who have graduated from high school or received a high school equivalency diploma.</p></li>
-<li><p>Minors who are within the compulsory school attendance age limit who hold a valid certificate of exemption issued by the school superintendent or his or her designee pursuant to the provisions of s. 1003.21(3), F.S.</p></li>
-<li><p>Minors enrolled in a public educational institution who qualify on a hardship basis such as economic necessity or family emergency.</p>
-<ul>
-<li>Such determination must be made by the school superintendent or his or her designee, and a waiver of hours must be issued to the minor and the employer.</li>
-</ul></li>
-<li><p>Children in domestic service in private homes, children employed by their parents, or pages in the Florida Legislature.</p></li>
-</ul>
-<p>As I see it, these existing exemptions reflect the fact that not all teenagers are the same, and a one-size-fits-all policy that places the same restrictions on the labor supply of all teenagers is not desirable. The first exemption, for students who graduate or get their GED early, seems especially reasonable to me. The second and third exemptions, in which waivers may be granted with the intervention of the superintendent or their designee, are the focus of my post. I have only been able to gather limited information about these waivers, a number of counties have webpages providing details about how these waivers may be obtained, including Escambia, Volusia, Brevard and Alachua.</p>
-<p>It seems in these districts there is generally an administrative staff member who is responsible for signing off on these waivers, which require a significant amount of paperwork, and involve a subjective assessment by administrative staff as to whether granting the waiver is in the best interests of the students. Therefore, I can understand the desire, expressed in HB 49, to do away with these restrictions so that this waiver process is no longer needed. However, I think a smarter option is to streamline the process for obtaining a waiver, such that the waiver is granted automatically as long as a student is on track to graduate, meaning they are maintaining a 2.0 GPA, not be excessively tardy or absent, etc. If a students' grades dropped, the waiver would be automatically revoked, The advantages of streamlining the waiver system, as opposed to doing away with the restrictions entirely, are two-fold:</p>
-<ol type="1">
-<li><p>It would ensure that students' education is not hampered by their work schedule. Those opposed to HB 49 imagine students working long hours or overnight shifts, coming in to school tired and not performing well in school, potentially even dropping out. By maintaining a waiver system tied to staying on track to graduate, we could avoid the worst case scenarios that might play out under a full repeal.</p></li>
-<li><p>It would create a registry of students who are working without the hours restrictions. By sharing this registry with trusted research partners, and keeping track of students working under waivers through graduation and beyond, we could learn more about the effects of teenage labor force participation on these young people's lives.</p></li>
-</ol>
-<p>I view the second point as especially important. The fact is, we know very little about what is the best way for young people to be spending their time during crucial formative years as they transition to adulthood and enter the workforce, particularly given the rapidly changing nature of our economy. Personally, I think extensive participation in the labor force at a young age may be beneficial for some teenagers, especially those who might, for instance, go on to form their own businesses. In the media coverage surrounding HB 49, one 16 year old named Logan Schulenberger is quoted as being in favor of the bill lifting the hours restrictions. Logan apparently works as a martial arts instructor, and so if that is his path then all the better for him to get experience early and advance his career in that field.&nbsp;</p>
-<p>For certain professions such as automotive technician, welder, farmer, etc. the schools operate vocational programs where students can earn school credits taking classes about their profession, and get work experience through an employer affiliated with the school, but these programs are limited in scope and not applicable to many students. While I certainly support expanding vocational education as an alternative to the college preparatory track which I think many agree has become oversaturated, having a waiver system for students to work full time schedules or flexible schedules while in school is another viable option for expanding the range of paths students may take as they transition into the workforce.</p>
-<p>Only by keeping track of the students who avail themselves of these waivers, and seeing how things play out for them, can we learn more about what the actual effect of increased high school labor force participation is. HB 49 as written would not provide us with the opportunity to gather this valuable information, and additionally it would not provide any safeguards against extended working hours adversely impacting students' academic outcomes, which is why the bill should be amended before advancing any further in the 2024 session.</p>
-
-
-
- ]]></description>
-  <category>policy</category>
-  <category>florida</category>
-  <guid>https://www.zandergordan.com/posts/teenage-labor/amend-those.html</guid>
-  <pubDate>Thu, 11 Jan 2024 05:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
